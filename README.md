@@ -7,12 +7,12 @@
 
 
 # 💫 About Me:
-🔬 I specialize in machine learning, deep learning, and natural language processing.<br>
-💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
-📊 I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
-🌱 I enjoy learning and keeping up with the latest advancements in the field.<be>
-💬 Ask me about **Feel free to ask me about anything related to machine learning, deep learning, or natural language processing.**
-👨‍💻 All of my projects are available at **https://github.com/elsayedelmandoh?tab=repositories**
+- 🔬 I specialize in machine learning, deep learning, and natural language processing.<br>
+- 💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
+- 📊 I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
+- 🌱 I enjoy learning and keeping up with the latest advancements in the field.<be>
+- 💬 Ask me about **Feel free to ask me about anything related to machine learning, deep learning, or natural language processing.**
+- 👨‍💻 All of my projects are available at **https://github.com/elsayedelmandoh?tab=repositories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +42,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
 
 
