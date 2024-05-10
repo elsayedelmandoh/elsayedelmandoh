@@ -7,6 +7,7 @@
 
 
 # 💫 About Me:
+- 👋 Hi there, I'm Elsayed from Egypt 🇪🇬🇷🇺 
 - 🔬 I specialize in machine learning, deep learning, and natural language processing.<br>
 - 💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
 - 📊 I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
