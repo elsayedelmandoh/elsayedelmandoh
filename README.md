@@ -47,7 +47,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Top 5 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=automated_ml&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/automated_ml) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Airbnb-Listing-EDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=twitter_disaster_classifier&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/twitter_disaster_classifier) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=market_segmentation_neural_networks&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/market_segmentation_neural_networks) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=code-evaluator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/code-evaluator)
 
-<h3 align="left">💫 Stars I've Earned</h3>
+<h3 align="center">💫 Stars I've Earned</h3>
 <div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
 
@@ -59,7 +59,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📈 GitHub Statistics</h3>
-<div align="center">
 <a href="https://github.com/elsayedelmandoh">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsayedelmandoh&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=2077" height="180em" />
@@ -68,12 +67,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elsayedelmandoh&theme=2077" height="180em" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">⚡ Activity Graph:</h3>
+<h3 align="center">⚡ Activity Graph:</h3>
 <p align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&theme=synthwave-84"/>
 </p>
 
-<h3 align="left">🤝 Let's Connect </h3>
+<h3 align="center">🤝 Let's Connect </h3>
 <p align="left">
   <a href="https://twitter.com/elsayedelmandoo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40">
@@ -94,4 +93,5 @@
     <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
 </p>
+
 [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
