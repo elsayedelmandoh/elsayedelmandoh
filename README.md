@@ -16,11 +16,11 @@
 - 🗣️ Feel free to chat with me about anything related to machine learning, deep learning, or natural language processing.<br>
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<br>
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayedelmandoh&theme=discord" alt="elsayedelmandoh" /></a> </p>
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ### 🤝 Let's Connect </h3>
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤝 Let's Connect </h3>
 <p align="left">
   <a href="https://twitter.com/elsayedelmandoo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40">
@@ -44,7 +44,7 @@
 
 [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
-<h3 align="left">### 🛠️ Languages and Tools</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
@@ -79,7 +79,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">## 📈 GitHub Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📈 GitHub Statistics</h3>
 <div align="center">
 <a href="https://github.com/elsayedelmandoh">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsayedelmandoh&theme=2077" height="180em" />
