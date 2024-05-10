@@ -14,15 +14,16 @@
 - 🎯  I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
 - 🌟 I enjoy learning and keeping up with the latest advancements in the field.<br>
 - 🗣️ Feel free to chat with me about anything related to machine learning, deep learning, or natural language processing.<br>
-- 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<br>
+- 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🏆 GitHub Achievements
 <div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayedelmandoh&theme=discord" alt="elsayedelmandoh" /></a> </p>
 </div>
 
-<h3 align="left">🛠️ Languages and Tools I Love</h3>
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🛠️ Languages and Tools I Love
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
@@ -44,9 +45,11 @@
 </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Top 5 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=automated_ml&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/automated_ml) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Airbnb-Listing-EDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=twitter_disaster_classifier&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/twitter_disaster_classifier) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=market_segmentation_neural_networks&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/market_segmentation_neural_networks) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=code-evaluator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/code-evaluator)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">💫 Stars I've Earned</h3>
 <div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
@@ -58,7 +61,8 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">📈 GitHub Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📈 GitHub Statistics</h3>
 <a href="https://github.com/elsayedelmandoh">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsayedelmandoh&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=2077" height="180em" />
