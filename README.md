@@ -48,7 +48,7 @@
 
 ## 💫 Stars I've Earned
 <div align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elsayedelmandoh&show_icons=true&locale=en&theme=transparent" alt="elsayedelmandoh" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=transparent" alt="elsayedelmandoh" /></p>
 </div>
