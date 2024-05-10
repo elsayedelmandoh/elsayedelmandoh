@@ -35,9 +35,6 @@
 
 <!--
 
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-
 ## technologies Icons 
 https://simpleicons.org/
 
@@ -63,7 +60,7 @@ https://simpleicons.org/
 </p>
 <p align="left">
   <a href="mailto:elsayedelmandoh7@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
 </p>
 
@@ -75,7 +72,9 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 -->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+[![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
 
 
