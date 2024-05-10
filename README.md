@@ -56,8 +56,8 @@
 ## 📈 GitHub Statistics
 <div align="center">
 <a href="https://github.com/elsayedelmandoh">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsayedelmandoh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=2077" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsayedelmandoh&theme=2077" height="180em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=2077" height="180em" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsayedelmandoh&theme=2077" height="180em" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elsayedelmandoh&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elsayedelmandoh&theme=2077" height="180em" />
