@@ -14,7 +14,7 @@
 - 💬 Ask me about **Feel free to ask me about anything related to machine learning, deep learning, or natural language processing.**
 - 👨‍💻 All of my projects are available at **https://github.com/elsayedelmandoh?tab=repositories**
 
-<h3 align="left">Connect with me:</h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3 align="left">Connect with me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left">
   <a href="https://twitter.com/elsayedelmandoo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40">
