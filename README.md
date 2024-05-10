@@ -12,7 +12,7 @@
 - 💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
 - 📊 I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
 - 🌱 I enjoy learning and keeping up with the latest advancements in the field.<be>
-- 💬 Ask me about **Feel free to ask me about anything related to machine learning, deep learning, or natural language processing.**
+- 💬 Ask me about **anything related to machine learning, deep learning, or natural language processing.**
 - 👨‍💻 All of my projects are available at [repos](https://github.com/elsayedelmandoh?tab=repositories)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayedelmandoh&theme=discord" alt="elsayedelmandoh" /></a> </p>
@@ -63,12 +63,15 @@
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="40" height="40"/>
 </p>
 
+## 🖥 &nbsp;Past work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/love-lock-card) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/love-lock-card)
+
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elsayedelmandoh&show_icons=true&locale=en&theme=transparent" alt="elsayedelmandoh" /></p>
-
-
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=transparent" alt="elsayedelmandoh" /></p>
 
