@@ -33,12 +33,7 @@
   </a>
 </p>
 
-<!--
 
-## technologies Icons 
-https://simpleicons.org/
-
--->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
 
