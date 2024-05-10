@@ -39,7 +39,7 @@
 
 [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
-[![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/elsayedelmandoh) &nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/elsayedelmandoh?logo=github&style=for-the-badge)](https://github.com/elsayedelmandoh) &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
