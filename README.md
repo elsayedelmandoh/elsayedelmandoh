@@ -1,7 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/ThecoderPinar)
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/elsayedelmandoh/count.svg" />
