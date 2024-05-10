@@ -24,11 +24,17 @@
 
 </a><a href="https://instagram.com/elsayed.elmandoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="piinartp" height="30" width="40" /></a></p>
 
+<a href="mailto:elsayedelmandoh7@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40">
+  </a>
+</p>
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/elsayedelmandoo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40">
-  </a><a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/" target="blank">
+  </a>
+  <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
   <a href="https://instagram.com/elsayed.elmandoh" target="blank">
