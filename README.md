@@ -44,7 +44,7 @@
 
 [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
-<h3 align="left">☕ Languages and Tools:</h3>
+<h3 align="left">### 🛠️ Languages and Tools</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
@@ -79,7 +79,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">## 📈 GitHub Statistics</h3>
 <div align="center">
 <a href="https://github.com/elsayedelmandoh">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsayedelmandoh&theme=2077" height="180em" />
