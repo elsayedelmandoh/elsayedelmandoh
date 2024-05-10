@@ -1,24 +1,26 @@
 [![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/ThecoderPinar)
 
+<h2 align="center">👋 Welcome to my GitHub space!</h2>
+
 <p align="center"> 
-  Visitor count<br>
+  👋 Hi there, Number of visitors<br>
   <img src="https://profile-counter.glitch.me/elsayedelmandoh/count.svg" />
 </p>
 
+## 📝 About Me
+- 🧑‍💻 I'm Elsayed, hailing from the land of the Pharaohs, Egypt.<br>
+- 🧠 I specialize in machine learning, deep learning, and natural language processing.<br>
+- 🚀 I'm on a mission to enhance my leadership and entrepreneurship skills to become a more effective leader.<br>
+- 🎯  I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
+- 🌟 I enjoy learning and keeping up with the latest advancements in the field.<br>
+- 🗣️ Feel free to chat with me about anything related to machine learning, deep learning, or natural language processing.<br>
+- 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<br>
 
-# 💫 About Me:
-- 👋 Hi there, I'm Elsayed from Egypt. 
-- 🔬 I specialize in machine learning, deep learning, and natural language processing.<br>
-- 💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
-- 📊 I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
-- 🌱 I enjoy learning and keeping up with the latest advancements in the field.<be>
-- 💬 Ask me about **anything related to machine learning, deep learning, or natural language processing.**
-- 👨‍💻 All of my projects are available at [repos](https://github.com/elsayedelmandoh?tab=repositories)
-
+### 🏆 GitHub Achievements
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayedelmandoh&theme=discord" alt="elsayedelmandoh" /></a> </p>
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with me: </h3>
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ### 🤝 Let's Connect </h3>
 <p align="left">
   <a href="https://twitter.com/elsayedelmandoo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40">
@@ -42,7 +44,7 @@
 
 [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">☕ Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
@@ -63,12 +65,12 @@
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="40" height="40"/>
 </p>
 
-## 🖥 Top work
+## 🖥 Top 5 works
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=automated_ml&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/automated_ml) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Airbnb-Listing-EDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=twitter_disaster_classifier&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/twitter_disaster_classifier) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=market_segmentation_neural_networks&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/market_segmentation_neural_networks) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=code-evaluator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/code-evaluator)
 
 
-<h3 align="left">Stars</h3>
+<h3 align="left">💫 Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elsayedelmandoh&show_icons=true&locale=en&theme=transparent" alt="elsayedelmandoh" /></p>
@@ -86,5 +88,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elsayedelmandoh&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elsayedelmandoh&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="left">⚡ Activity Graph:</h3>
+<p align="center">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&theme=synthwave-84"/>
+</p>
