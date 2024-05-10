@@ -1,5 +1,7 @@
-![Hey there, I'm Elsayed. I'm a Artificial Intelligence Engineer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+[![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/ThecoderPinar)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
-
-# 👋 &nbsp;Hi there
+# 💫 About Me:
+🔬 I specialize in machine learning, deep learning, and natural language processing.<br>
+💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
+📊 I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
+🌱 I enjoy learning and keeping up with the latest advancements in the field.<br>
