@@ -28,8 +28,7 @@
 <p align="left">
   <a href="https://twitter.com/elsayedelmandoo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40">
-  </a>
-  <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/" target="blank">
+  </a><a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
   <a href="https://instagram.com/elsayed.elmandoh" target="blank">
