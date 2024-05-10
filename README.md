@@ -1,5 +1,13 @@
 [![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/ThecoderPinar)
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/elsayedelmandoh/count.svg" />
+</p>
+
+
 # 💫 About Me:
 🔬 I specialize in machine learning, deep learning, and natural language processing.<br>
 💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
