@@ -6,7 +6,7 @@
 </p>
 
 
-# 💫 About Me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+# 💫 About Me:
 - 🔬 I specialize in machine learning, deep learning, and natural language processing.<br>
 - 💡 I'm continuously improving my leadership and entrepreneurship skills to become a more effective leader.<br>
 - 📊 I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
@@ -14,7 +14,7 @@
 - 💬 Ask me about **Feel free to ask me about anything related to machine learning, deep learning, or natural language processing.**
 - 👨‍💻 All of my projects are available at **https://github.com/elsayedelmandoh?tab=repositories**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <p align="left">
   <a href="https://twitter.com/elsayedelmandoo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter" height="30" width="40">
@@ -35,16 +35,6 @@
     <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
 </p>
-
-<!--
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-
-## Technologies Icons 
-https://simpleicons.org/
--->
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
 
