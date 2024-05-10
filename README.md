@@ -2,9 +2,9 @@
 
 <h2 align="center">👋 Welcome to my GitHub space!</h2>
 
-<p align="center"> 
-  👋 Hi there, Number of visitors<br>
-  <img src="https://profile-counter.glitch.me/elsayedelmandoh/count.svg" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/elsayedelmandoh/count.svg" alt="Visitor Count" /><br>
+  <strong>Visitors so far: </strong><span id="profile-counter">Loading...</span>
 </p>
 
 ## 📝 About Me
