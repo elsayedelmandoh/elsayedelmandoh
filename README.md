@@ -65,8 +65,7 @@
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/love-lock-card) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/love-lock-card)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/love-lock-card)
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
