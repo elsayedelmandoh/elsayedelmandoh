@@ -17,7 +17,9 @@
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<br>
 
 ## 🏆 GitHub Achievements
+<div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayedelmandoh&theme=discord" alt="elsayedelmandoh" /></a> </p>
+</div>
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤝 Let's Connect </h3>
