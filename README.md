@@ -10,7 +10,7 @@
 ## 📝 About Me
 - 🧑‍💻 I'm Elsayed, hailing from Egypt.<br>
 - 🧠 I specialize in machine learning, deep learning, and natural language processing.<br>
-- 🚀 I'm on a mission to enhance my leadership and entrepreneurship skills to become a more effective leader.<br>
+- 🚀 I'm on a mission to enhance my leadership and technical skills to become a more effective leader.<br>
 - 🎯  I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
 - 🌟 I enjoy learning and keeping up with the latest advancements in the field.<br>
 - 🗣️ Feel free to chat with me about anything related to machine learning, deep learning, or natural language processing.<br>
@@ -44,7 +44,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Top 5 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=automated_ml&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/automated_ml) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Airbnb-Listing-EDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=twitter_disaster_classifier&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/twitter_disaster_classifier) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=market_segmentation_neural_networks&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/market_segmentation_neural_networks) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=code-evaluator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/code-evaluator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=automated_ml&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/automated_ml) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Airbnb-Listing-EDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=twitter_disaster_classifier&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/twitter_disaster_classifier) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=code-evaluator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/code-evaluator)
 
 ## 💫 Stars I've Earned
 <div align="center">
