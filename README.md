@@ -7,7 +7,7 @@
 - 🧑‍💻 I'm **Elsayed** from Egypt — an **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University in Kingston, Ontario, Canada**.<br>
 - 🧠 I specialize in **Natural Language Processing (NLP)** and **AI Agents**.<br>
 - 🚀 I’m developing my **entrepreneurship skills** to **build a $1B company run by agents while I play chess** :)<br>
-- 🗣️ Let’s connect and talk about **NLP, AI Agents**, or **innovative deep learning applications**.<br>
+- 🗣️ Let’s connect and talk about **NLP, AI Agents**, or **innovative LLM applications**.<br>
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
 
 ## 🏆 GitHub Achievements
