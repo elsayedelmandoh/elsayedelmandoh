@@ -8,12 +8,11 @@
 </p>
 
 ## 📝 About Me
-- 🧑‍💻 I'm Elsayed from Egypt.<br>
-- 🧠 I specialize in machine learning, deep learning, and natural language processing.<br>
-- 🚀 I'm on a mission to enhance my leadership and technical skills to become a more effective leader.<br>
-- 🎯  I seek a role where I can apply these skills to plan, manage, and execute projects in a supportive team environment.<br>
-- 🌟 I enjoy learning and keeping up with the latest advancements in the field.<br>
-- 🗣️ Feel free to chat with me about anything related to machine learning, deep learning, or natural language processing.<br>
+
+- 🧑‍💻 I'm **Elsayed** from Egypt — an **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University in Kingston, Ontario, Canada**.<br>
+- 🧠 I specialize in **Natural Language Processing (NLP)** and **AI Agents**.<br>
+- 🚀 I’m developing my **entrepreneurship skills** to **build a $1B company run by agents while I play chess**.<br>
+- 🗣️ Let’s connect and talk about **NLP, AI Agents**, or **innovative deep learning applications**.<br>
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
 
 ## 🏆 GitHub Achievements
