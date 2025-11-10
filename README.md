@@ -2,11 +2,6 @@
 
 <h2 align="center">👋 Welcome to my GitHub space!</h2>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/elsayedelmandoh/count.svg" alt="Visitor Count" /><br>
-  <strong>Visitors so far: </strong><span id="profile-counter">Loading...</span>
-</p>
-
 ## 📝 About Me
 
 - 🧑‍💻 I'm **Elsayed** from Egypt — an **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University in Kingston, Ontario, Canada**.<br>
