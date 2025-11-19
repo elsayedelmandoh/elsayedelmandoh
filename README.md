@@ -8,12 +8,12 @@
 - 🧠 I specialize in Natural Language Processing (NLP) and AI Agents, and I’m developing my entrepreneurship skills.<br>
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayedelmandoh&theme=discord" alt="elsayedelmandoh" /></a> </p>
 </div>
 
-## 🛠️ Languages and Tools I Love
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
@@ -25,20 +25,19 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Docker" width="40" height="40"/>
 </p>
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Top 5 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=automated_ml&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/automated_ml) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Airbnb-Listing-EDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=twitter_disaster_classifier&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/twitter_disaster_classifier) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=LSI-LaBSE-semantic-search-widebot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/LSI-LaBSE-semantic-search-widebot)
 
-## 💫 Stars I've Earned
+## 📊 GitHub Insights
 <div align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elsayedelmandoh&show_icons=true&locale=en&theme=transparent" alt="elsayedelmandoh" /></p>
@@ -60,7 +59,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&theme=synthwave-84"/>
 </p>
 
-## 🤝 Let's Connect
+## 🔗 Connect With Me
 <p align="left">
   <a href="https://x.com/aangpy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter/X" height="30" width="40">
