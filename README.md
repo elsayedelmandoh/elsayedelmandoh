@@ -4,6 +4,18 @@
 
 ## 📝 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=NLP+Engineer;" alt="Typing SVG" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Master’s%20in%20AI%20&%20Data%20Science%20at%20Queen's%20University%20in%20Kingston,%20Ontario,%20Canada&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  </a>
+</p>
+
 - 🧑‍💻 Hi, I'm **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University in Kingston, Ontario, Canada**.<br>
 - 🧠 I specialize in Natural Language Processing (NLP) and AI Agents, and I’m developing my entrepreneurship skills.<br>
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
