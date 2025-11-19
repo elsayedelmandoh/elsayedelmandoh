@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Master’s%20in%20AI%20and%20Data%20Science;Queen's%20University%20in%20Kingston%20Ontario%20Canada&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Master’s%20in%20AI%20and%20Data%20Science;Queen's%20University%20at%20Kingston%20Ontario%20Canada&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
-- 🧑‍💻 Hi, I'm **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University in Kingston, Ontario, Canada**.<br>
+- 🧑‍💻 Hi, I'm **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University at Kingston, Ontario, Canada**.<br>
 - 🧠 I specialize in Natural Language Processing (NLP) and AI Agents, and I’m developing my entrepreneurship skills.<br>
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
 
