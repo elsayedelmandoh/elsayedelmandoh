@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Master’s%20in%20AI%20and%20Data%20Science%20at%20Queen's%20University%20in%20Kingston,%20Ontario,%20Canada&font=Bold%20Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Master’s%20in%20AI%20and%20Data%20Science;at%20Queen's%20University%20in%20Kingston,%20Ontario,%20Canada&font=Bold%20Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
