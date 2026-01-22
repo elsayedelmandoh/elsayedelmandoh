@@ -17,7 +17,7 @@
 </p>
 
 - 🧑‍💻 Hi, I'm **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University in Kingston, Ontario, Canada**.<br>
-- 🧠 I specialize in Natural Language Processing (NLP) and AI Agents, and I’m developing my entrepreneurship and Cyber Security skills.<br>
+- 🧠 I specialize in NLP, AI Agents, and I’m developing my entrepreneurship and Cyber Security skills.<br>
 - 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
 
 ## 🏆 GitHub Trophies
