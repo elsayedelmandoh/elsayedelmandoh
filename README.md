@@ -1,7 +1,7 @@
 <h1 align="center">yo, i'm elsayed</h1>
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=nlp+engineer;ai+agents+builder;master's+%40+queen's+university;building+cool+stuff+with+llms" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&lines=nlp+engineer;ai+agents+builder;master's+%40+queen's+university;building+cool+stuff+with+llms" alt="typing svg" />
 </p>
  
 <p align="center">
@@ -68,7 +68,7 @@ databases    -> mysql, sqlite, chromadb
 ### contributions
  
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FFFF/elsayedelmandoh" alt="contribution graph" />
+  <img src="https://ghchart.rshah.org/FFFF00/elsayedelmandoh" alt="contribution graph" />
 </p>
  
 ---
@@ -86,7 +86,7 @@ databases    -> mysql, sqlite, chromadb
 ---
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=00FFFF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=FFFF00&style=flat-square" alt="profile views" />
 </p>
  
 <p align="center">
