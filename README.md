@@ -1,98 +1,90 @@
-<h1 align="center">👋 Welcome to my GitHub space!</h1>
-
-[![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/ThecoderPinar)
-
-## 📝 About Me
+<h1 align="center">yo, i'm elsayed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=NLP+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=nlp+engineer;ai+agents+builder;master's+%40+queen's+university;building+cool+stuff+with+llms" alt="typing svg" />
 </p>
-
-<br>
 
 <p align="center">
-  <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Master’s%20in%20AI%20and%20Data%20Science;at%20Queen's%20University%20in%20Canada&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://x.com/aangpy">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x"/>
+  </a>
+  <a href="mailto:elsayedelmandoh7@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
 
-- 🧑‍💻 Hi, I'm **NLP Engineer** currently **studying for my Master’s in AI & Data Science** at **Queen's University in Kingston, Ontario, Canada**.<br>
-- 🧠 I specialize in NLP, AI Agents, and I’m developing my Cyber Security skills.<br>
-- 🔍 Discover my work: [My Repositories](https://github.com/elsayedelmandoh?tab=repositories).<be>
+---
 
-## 🏆 GitHub Trophies
-<div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayedelmandoh&theme=discord" alt="elsayedelmandoh" /></a> </p>
-</div>
+### about me
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Docker" width="40" height="40"/>
-</p>
-</div>
+i'm an nlp engineer who's lowkey obsessed with making language models do things they weren't supposed to. currently doing my master's in ai & data science at queen's university in canada, and i build stuff with llms, rag pipelines, and ai agents for fun (and occasionally for grades).
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Top 5 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=automated_ml&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/automated_ml) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=Airbnb-Listing-EDA&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/Airbnb-Listing-EDA) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=twitter_disaster_classifier&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/twitter_disaster_classifier) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elsayedelmandoh&repo=LSI-LaBSE-semantic-search-widebot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/elsayedelmandoh/LSI-LaBSE-semantic-search-widebot)
+previously worked as a ml engineer at electro pi where i shipped 12+ projects, and taught ai at huawei ict academy. also was head of ai at a school which was a whole vibe.
 
-## 📊 GitHub Insights
-<div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=transparent" alt=elsayedelmandoh />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=elsayedelmandoh&show_icons=true&locale=en&theme=transparent" alt="elsayedelmandoh" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=transparent" alt="elsayedelmandoh" /></p>
-</div>
+i like my models fine-tuned and my code clean.
 
-## 📈 GitHub Statistics
-<div align="center">
-<a href="https://github.com/elsayedelmandoh">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsayedelmandoh&theme=2077" height="180em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=2077" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsayedelmandoh&theme=2077" height="180em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elsayedelmandoh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elsayedelmandoh&theme=2077" height="180em" />
-</div>
+---
 
-## ⚡ Activity Graph
+### what i work with
+
+```
+languages    -> python, sql
+ml/dl        -> pytorch, tensorflow, keras, scikit-learn
+nlp & llms   -> hugging face, langchain, spacy, nltk, gensim, rag, prompt eng
+cv           -> opencv, yolov8, stable diffusion
+tools        -> docker, git, linux, aws, azure, streamlit, gradio
+databases    -> mysql, sqlite, chromadb
+```
+
+---
+
+### projects i'm proud of
+
+| project | what it does | stack |
+|---------|-------------|-------|
+| [russ](https://github.com/elsayedelmandoh/russ-rag-based-tutor-for-specific-subjects-genai-queens) | private offline rag tutor that eats course pdfs and answers questions with citations. zero cloud leakage. built for queen's. | python, rag, langchain |
+| [multimodal-chatbot](https://github.com/elsayedelmandoh/multimodal-chatbot) | chatbot that understands both text and images. visual understanding meets conversational ai. | python, cv, nlp |
+| [web-search](https://github.com/elsayedelmandoh/web-search) | gradio app that combines google search + gemini ai for grounded, cited responses | python, gradio, gemini |
+| [instructor-for-agentic-ai](https://github.com/elsayedelmandoh/instructor-for-agentic-ai) | ai-powered instructor using groq api + gradio for teaching agentic ai concepts | python, groq, gradio |
+| [automated_ml](https://github.com/elsayedelmandoh/automated_ml) | zero-code automl platform. upload data, get models. that simple. | python, scikit-learn |
+| [sentiment-analysis](https://github.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot) | sentiment classifier with naive bayes + lstm. 93% accuracy. | python, nltk, tensorflow |
+| [semantic-search](https://github.com/elsayedelmandoh/LSI-LaBSE-semantic-search-widebot) | semantic search engine using tfidf, lsi, and labse. 87% map. | python, gensim, spacy |
+| [deep-neural-networks](https://github.com/elsayedelmandoh/deep_neural_networks) | comprehensive guide to building dnns from scratch. notebooks included. | python, tensorflow |
+
+---
+
+### competitions
+
+**arabic abstractive summarization** @ icmtc-23 - fine-tuned mt5 for arabic text summarization. rouge scores: r1=0.10, r2=0.02, rl=0.08.
+
+**terrorist detection** @ itc-23 - yolov8x + autodistill for civilian/military classification and weapon detection. 0.738 map50.
+
+---
+
+### stats
+
 <p align="center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&theme=synthwave-84"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsayedelmandoh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://x.com/aangpy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Twitter/X" height="30" width="40">
-  </a>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-  </a>
-</p>
-<p align="left">
-  <a href="https://instagram.com/elsayed.elmandoh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="30" width="40">
-  </a>
-</p>
-<p align="left">
-  <a href="mailto:elsayedelmandoh7@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=tokyonight&hide_border=true" />
 </p>
 
-[![Github](https://img.shields.io/github/followers/elsayedelmandoh?label=Follow%20Me&style=social)](https://github.com/elsayedelmandoh)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&theme=tokyo-night&hide_border=true" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=00FFFF&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <i>if you made it this far, you should probably just follow me tbh</i>
+</p>
