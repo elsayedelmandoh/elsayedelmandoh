@@ -20,11 +20,11 @@
 
 ### about me
 
-i'm an nlp engineer who currently doing my master's in ai & data science at queen's university in canada, and i build stuff with llms, rag pipelines, and ai agents
+i'm an nlp engineer currently studying my master's in ai & data science at queen's university in canada, and i build cool things with llms, rag pipelines, and ai agents
  
-previously worked as a ml engineer at electro pi where i shipped 12+ projects, and taught ai at huawei ict academy which was a whole vibe
+previously worked as a ml engineer at electro pi (whole vibe) where i shipped 15+ projects, and taught ai at huawei ict academy to 30+ students
  
-in my free time, i'm building a startup that's fully run by ai agents while i play chess. and read about generation warfare (5GW and 6GW)
+rn i'm building a @wan startup that's fully run by ai agents while i play chess and read about generation warfare (5GW/6GW).
 
 ---
 
