@@ -64,15 +64,6 @@ databases    -> mysql, sqlite, chromadb
 
 ---
 
-
-### contributions
- 
-<p align="center">
-  <img src="https://ghchart.rshah.org/FFFF00/elsayedelmandoh" alt="contribution graph" />
-</p>
- 
----
-
 ### stats
  
 <p align="center">
