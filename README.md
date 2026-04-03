@@ -24,7 +24,7 @@ i'm an nlp engineer currently studying my master's in ai & data science at queen
  
 previously worked as a ml engineer at electro pi (whole vibe) where i shipped 15+ projects, and taught ai at huawei ict academy to 30+ students
  
-rn i'm building a @wan startup that's fully run by ai agents while i play chess and read about generation warfare (5GW/6GW).
+rn i'm building a [wan](https://github.com/wan-agi) startup that's fully run by ai agents while i play chess and read about generation warfare (5GW/6GW).
 
 ---
 
