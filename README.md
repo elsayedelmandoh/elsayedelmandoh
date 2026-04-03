@@ -1,9 +1,9 @@
 <h1 align="center">yo, i'm elsayed</h1>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=nlp+engineer;ai+agents+builder;master's+%40+queen's+university;building+cool+stuff+with+llms" alt="typing svg" />
 </p>
-
+ 
 <p align="center">
   <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -20,28 +20,28 @@
 
 ### about me
 
-i'm an nlp engineer who's lowkey obsessed with making language models do things they weren't supposed to. currently doing my master's in ai & data science at queen's university in canada, and i build stuff with llms, rag pipelines, and ai agents for fun (and occasionally for grades).
-
-previously worked as a ml engineer at electro pi where i shipped 12+ projects, and taught ai at huawei ict academy. also was head of ai at a school which was a whole vibe.
-
-i like my models fine-tuned and my code clean.
+i'm an nlp engineer who currently doing my master's in ai & data science at queen's university in canada, and i build stuff with llms, rag pipelines, and ai agents
+ 
+previously worked as a ml engineer at electro pi where i shipped 12+ projects, and taught ai at huawei ict academy which was a whole vibe
+ 
+in my free time, i'm building a startup that's fully run by ai agents while i play chess. and read about generation warfare (5GW and 6GW)
 
 ---
 
 ### what i work with
 
 ```
-languages    -> python, sql
+languages    -> python
 ml/dl        -> pytorch, tensorflow, keras, scikit-learn
 nlp & llms   -> hugging face, langchain, spacy, nltk, gensim, rag, prompt eng
-cv           -> opencv, yolov8, stable diffusion
-tools        -> docker, git, linux, aws, azure, streamlit, gradio
+cv           -> opencv, yolov8
+tools        -> docker, git, linux, aws, streamlit, gradio
 databases    -> mysql, sqlite, chromadb
 ```
 
 ---
 
-### projects i'm proud of
+### projects i worked on
 
 | project | what it does | stack |
 |---------|-------------|-------|
@@ -64,27 +64,36 @@ databases    -> mysql, sqlite, chromadb
 
 ---
 
-### stats
 
+### contributions
+ 
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FFFF/elsayedelmandoh" alt="contribution graph" />
+</p>
+ 
+---
+
+### stats
+ 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsayedelmandoh&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+ 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=tokyonight&hide_border=true" />
 </p>
-
+ 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&theme=tokyo-night&hide_border=true" />
 </p>
-
+ 
 ---
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=00FFFF&style=flat-square" alt="profile views" />
 </p>
-
+ 
 <p align="center">
   <i>if you made it this far, you should probably just follow me tbh</i>
 </p>
