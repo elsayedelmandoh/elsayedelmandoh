@@ -86,7 +86,7 @@ databases    -> mysql, sqlite, chromadb
 ---
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=FFFF00&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=FFFFFF&style=flat-square" alt="profile views" />
 </p>
  
 <p align="center">
