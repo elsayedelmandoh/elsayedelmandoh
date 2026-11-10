@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=nlp+engineer;ai+agents+builder;master%27s+%40+queen%27s+university" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=520&lines=nlp+engineer;ai+agents+builder;master%27s+%40+queen%27s+university" alt="typing svg" />
 </p>
 
 <p align="center">
@@ -53,7 +53,6 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=ubuntu&logoColor=black" alt="linux" />
   <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square" alt="aws" />
-  <img src="https://img.shields.io/badge/terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="terraform" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" />
@@ -76,30 +75,30 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
 
 ### featured projects
 
-| project | what it does | stack |
-|---|---|---|
-| [spaceeye-geoai](https://github.com/elsayedelmandoh/spaceeye-geoai) | ranks 12 coded R7 compounds for an inspection committee from free satellite data (earth engine). three clocks (k2/k3/k6), streamlit dashboard + hybrid rag chatbot | chromadb, duckdb, gemini, arabic-nlp |
-| [russ-rag-based-tutor-for-specific-subjects-genai-queens](https://github.com/elsayedelmandoh/russ-rag-based-tutor-for-specific-subjects-genai-queens) | private offline rag tutor over course pdfs. citation-backed answers, zero cloud leakage | langchain, chromadb, hf embeddings |
-| [multimodal-chatbot](https://github.com/elsayedelmandoh/multimodal-chatbot) · [demo](https://huggingface.co/spaces/elsayedelmandoh/multimodal-chatbot) | text + image chatbot | gemini api, gradio |
-| [web-search](https://github.com/elsayedelmandoh/web-search) | gradio app: google search + gemini for grounded, cited answers | python, gradio, gemini |
-| [instructor-for-agentic-ai](https://github.com/elsayedelmandoh/instructor-for-agentic-ai) | groq api + gradio agent that teaches agentic ai | python, groq, gradio |
-| [sentiment-sleuth](https://github.com/elsayedelmandoh/sentiment-sleuth) · [demo](https://huggingface.co/spaces/elsayedelmandoh/sentiment-sleuth) | traditional ml sentiment pipeline, sgd champion: acc 0.8903, f1 0.8902 | sgd, tf-idf, nltk, scikit-learn |
-| [atari-rl-benchmarking](https://github.com/elsayedelmandoh/atari-rl-benchmarking) | dqn, ppo, discrete sac on atari (pong, breakout, space invaders) | pytorch, gymnasium, sb3, custom discretesac |
-| [lightweight-speech-emotion-recognition-on-open-datasets](https://github.com/elsayedelmandoh/lightweight-speech-emotion-recognition-on-open-datasets) | 6-class ser on ravdess: 1d cnn on log-mel (~150k params, <1ms cpu inference) vs mfcc+svm | pytorch, specaugment, librosa |
-| [detect-terrorists](https://github.com/elsayedelmandoh/detect-terrorists) | air defense college competition detector: 0.738 map50, 0.637 map50-95 | yolov8x, autodistill |
-| [GemiLla](https://github.com/elsayedelmandoh/GemiLla) | dual-agent orchestration with gemini + groq/llama-3 (may 2024) | streamlit, gemini, groq |
+| project                                                                                                                                               | what it does                                                                                                                                                       | stack                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| [spaceeye-geoai](https://github.com/elsayedelmandoh/spaceeye-geoai)                                                                                    | ranks 12 coded R7 compounds for an inspection committee from free satellite data (earth engine). three clocks (k2/k3/k6), streamlit dashboard + hybrid rag chatbot | chromadb, duckdb, gemini, arabic-nlp        |
+| [russ-rag-based-tutor-for-specific-subjects-genai-queens](https://github.com/elsayedelmandoh/russ-rag-based-tutor-for-specific-subjects-genai-queens)  | private offline rag tutor over course pdfs. citation-backed answers, zero cloud leakage                                                                            | langchain, chromadb, hf embeddings          |
+| [multimodal-chatbot](https://github.com/elsayedelmandoh/multimodal-chatbot) · [demo](https://huggingface.co/spaces/elsayedelmandoh/multimodal-chatbot) | text + image chatbot                                                                                                                                               | gemini api, gradio                          |
+| [web-search](https://github.com/elsayedelmandoh/web-search)                                                                                            | gradio app: google search + gemini for grounded, cited answers                                                                                                     | python, gradio, gemini                      |
+| [instructor-for-agentic-ai](https://github.com/elsayedelmandoh/instructor-for-agentic-ai)                                                              | groq api + gradio agent that teaches agentic ai                                                                                                                    | python, groq, gradio                        |
+| [sentiment-sleuth](https://github.com/elsayedelmandoh/sentiment-sleuth) · [demo](https://huggingface.co/spaces/elsayedelmandoh/sentiment-sleuth)       | traditional ml sentiment pipeline, sgd champion: acc 0.8903, f1 0.8902                                                                                             | sgd, tf-idf, nltk, scikit-learn             |
+| [atari-rl-benchmarking](https://github.com/elsayedelmandoh/atari-rl-benchmarking)                                                                      | dqn, ppo, discrete sac on atari (pong, breakout, space invaders)                                                                                                   | pytorch, gymnasium, sb3, custom discretesac |
+| [lightweight-speech-emotion-recognition-on-open-datasets](https://github.com/elsayedelmandoh/lightweight-speech-emotion-recognition-on-open-datasets)  | 6-class ser on ravdess: 1d cnn on log-mel (~150k params, <1ms cpu inference) vs mfcc+svm                                                                           | pytorch, specaugment, librosa               |
+| [detect-terrorists](https://github.com/elsayedelmandoh/detect-terrorists)                                                                              | air defense college competition detector: 0.738 map50, 0.637 map50-95                                                                                              | yolov8x, autodistill                        |
+| [GemiLla](https://github.com/elsayedelmandoh/GemiLla)                                                                                                  | dual-agent orchestration with gemini + groq/llama-3 (may 2024)                                                                                                     | streamlit, gemini, groq                     |
 
 <details>
 <summary>earlier work @ electro pi</summary>
 
-| project | what it does |
-|---|---|
-| [automated_ml](https://github.com/elsayedelmandoh/automated_ml) | zero-code automl platform |
-| [automated_eda](https://github.com/elsayedelmandoh/automated_eda) | automated eda platform |
-| [lsi-labse-semantic-search-widebot](https://github.com/elsayedelmandoh/LSI-LaBSE-semantic-search-widebot) | semantic search with tf-idf / lsi / labse, 87% map |
-| [naive-bayes-lstm-for-sentiment-analysis-nlp-widebot](https://github.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot) | sentiment pipeline, naive bayes + lstm, 93% test acc |
-| [evaluating-language-models-for-harmful-prompt-detection](https://github.com/elsayedelmandoh/evaluating-language-models-for-harmful-prompt-detection) | harmful-prompt detection for llms |
-| [medical-image-analysis-with-vgg16-resnet-cnn](https://github.com/elsayedelmandoh/Medical-Image-Analysis-with-VGG16-ResNet-CNN) | medical image analysis with vgg16 / resnet |
+| project                                                                                                                                              | what it does                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [automated_ml](https://github.com/elsayedelmandoh/automated_ml)                                                                                       | zero-code automl platform                            |
+| [automated_eda](https://github.com/elsayedelmandoh/automated_eda)                                                                                     | automated eda platform                               |
+| [lsi-labse-semantic-search-widebot](https://github.com/elsayedelmandoh/LSI-LaBSE-semantic-search-widebot)                                             | semantic search with tf-idf / lsi / labse, 87% map   |
+| [naive-bayes-lstm-for-sentiment-analysis-nlp-widebot](https://github.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot)         | sentiment pipeline, naive bayes + lstm, 93% test acc |
+| [evaluating-language-models-for-harmful-prompt-detection](https://github.com/elsayedelmandoh/evaluating-language-models-for-harmful-prompt-detection) | harmful-prompt detection for llms                    |
+| [medical-image-analysis-with-vgg16-resnet-cnn](https://github.com/elsayedelmandoh/Medical-Image-Analysis-with-VGG16-ResNet-CNN)                       | medical image analysis with vgg16 / resnet           |
 
 </details>
 
@@ -138,11 +137,11 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
 [linkedin](https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/) · [email](mailto:elsayedelmandoh7@gmail.com) · [x](https://x.com/aangparker)
 
 ---
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=000000&style=flat-square" alt="profile views" />
 </p>
- 
+
 <p align="center">
   <i>if you made it this far, you should probably just follow me tbh</i>
 </p>
