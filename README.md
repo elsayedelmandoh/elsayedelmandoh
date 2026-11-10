@@ -125,6 +125,9 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
 ### stats
 
 <p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="contrib_dark.svg"><img alt="contribution graph" src="contrib_light.svg"></picture>
+</p>
+<p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=tokyonight&hide_border=true"><img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&hide_border=true" ></picture>
 </p>
 <p align="center">
