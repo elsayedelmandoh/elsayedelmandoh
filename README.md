@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=520&lines=nlp+engineer;ai+agents+builder;master's+%40+queen's+university" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=nlp+engineer;ai+agents+builder;master%27s+%40+queen%27s+university" alt="typing svg" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logoColor=white" alt="linkedin"/></a>
   <!-- TODO confirm X handle -->
   <a href="https://x.com/aangparker"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
   <a href="mailto:elsayedelmandoh7@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
@@ -33,7 +33,33 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
 ### tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,opencv,docker,git,linux,aws,fastapi,mysql,sqlite,streamlit,gradio,langchain,huggingface" alt="tech stack" /><br/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="pytorch" />
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="tensorflow" />
+  <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="opencv" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/hugging%20face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="hugging face" />
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="langchain" />
+  <img src="https://img.shields.io/badge/spacy-09A3D5?style=flat-square" alt="spacy" />
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="streamlit" />
+  <img src="https://img.shields.io/badge/gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="gradio" />
+  <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=ubuntu&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square" alt="aws" />
+  <img src="https://img.shields.io/badge/terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="terraform" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="sqlite" />
+  <img src="https://img.shields.io/badge/duckdb-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="duckdb" />
+  <img src="https://img.shields.io/badge/chromadb-FF6446?style=flat-square" alt="chromadb" />
 </p>
 
 <details>
@@ -103,15 +129,9 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=tokyonight&hide_border=true"><img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&hide_border=true" ></picture>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&theme=tokyonight&hide_border=true"><img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsayedelmandoh&layout=compact&hide_border=true" ></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=github_dark"><img width="48%" alt="most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=default"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsayedelmandoh&theme=github_dark"><img width="48%" alt="repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsayedelmandoh&theme=default"></picture>
 </p>
-
-<details>
-<summary>activity graph</summary>
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&theme=tokyo-night&hide_border=true"><img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=elsayedelmandoh&hide_border=true" ></picture>
-</p>
-</details>
 
 ### connect
 
