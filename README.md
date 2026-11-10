@@ -102,11 +102,6 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
 
 </details>
 
-### competitions
-
-- **[arabic abstractive summarization](https://github.com/elsayedelmandoh/Arabic_Abstractive_Summarization)** @ icmtc-23: fine-tuned mt5. rouge r1 0.10 / r2 0.02 / rl 0.08.
-- **terrorist detection** @ itc-23: yolov8x. 0.738 map50.
-
 ### education & experience
 
 - **m.sc. ai & data science** (a+), queen's university, kingston: jan-nov 2026. thesis: minimallm (supervisor dr. rahatara ferdousi, sponsor deloitte)
@@ -121,6 +116,11 @@ off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
 - **b.sc. ai**, egyptian russian university: oct 2020-jul 2024. graduation project linkedup, an academic networking platform (python, django, rest, cosine-similarity recommendations). represented eru in ai competitions at auc, nile university, military technical college and air defense college
 
 </details>
+
+### competitions
+
+- **[arabic abstractive summarization](https://github.com/elsayedelmandoh/Arabic_Abstractive_Summarization)** @ icmtc-23: fine-tuned mt5. rouge r1 0.10 / r2 0.02 / rl 0.08.
+- **terrorist detection** @ itc-23: yolov8x. 0.738 map50.
 
 ### stats
 
