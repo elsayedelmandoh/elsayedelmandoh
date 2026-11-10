@@ -195,8 +195,8 @@ def build(theme, s):
 
 LEVELS = ["NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE"]
 HEAT = {
-    "dark_mode":  ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"],
-    "light_mode": ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
+    "dark_mode":  ["#2d333b", "#0e6b2f", "#1a8f3d", "#2ea043", "#56d364"],
+    "light_mode": ["#e1e4e8", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
 }
 CELL, GAP, PAD, TOP = 11, 3, 15, 34
 STEP = CELL + GAP
