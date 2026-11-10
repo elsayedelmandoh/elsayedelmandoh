@@ -19,6 +19,23 @@ W = 60                               # char width of the right column
 
 ROOT = Path(__file__).parent
 API = "https://api.github.com/graphql"
+
+
+def load_env(path):
+    """Load KEY=VALUE lines into os.environ; real env vars win."""
+    try:
+        lines = Path(path).read_text(encoding="utf-8").splitlines()
+    except FileNotFoundError:
+        return
+    for line in lines:
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        os.environ.setdefault(key.strip(), value.strip().strip("'\""))
+
+
+load_env(ROOT / ".env")
 TOKEN = os.environ.get("ACCESS_TOKEN")
 
 
@@ -242,4 +259,4 @@ if __name__ == "__main__":
     for theme in THEMES:
         (ROOT / f"{theme}.svg").write_text(build(theme, stats), encoding="utf-8")
         (ROOT / HEAT_FILES[theme]).write_text(build_heatmap(theme, stats), encoding="utf-8")
-    print("done:", stats)
+    print("done:", {k: v for k, v in stats.items() if k != "calendar"})

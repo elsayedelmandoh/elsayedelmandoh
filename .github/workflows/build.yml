@@ -11,16 +11,20 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      HAS_TOKEN: ${{ secrets.ACCESS_TOKEN != '' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Generate cards
+        if: env.HAS_TOKEN == 'true'
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: pip install -r requirements.txt && python today.py
       - name: Commit changes
+        if: env.HAS_TOKEN == 'true'
         run: |
           git add dark_mode.svg light_mode.svg contrib_dark.svg contrib_light.svg
           if git diff --cached --quiet; then
