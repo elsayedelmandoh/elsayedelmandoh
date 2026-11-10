@@ -53,19 +53,17 @@ off-keyboard: chess, gym, and reading about 5gw/6gw theory.
 
 ### featured projects
 
-| project | what it does | stack | |
-|---|---|---|---|
-| [spaceeye-geoai](https://github.com/elsayedelmandoh/spaceeye-geoai) | ranks 12 coded R7 compounds for an inspection committee from free satellite data (earth engine). three clocks (k2/k3/k6), streamlit dashboard + hybrid rag chatbot | chromadb, duckdb, gemini, arabic-nlp | |
-| [russ-rag-based-tutor-for-specific-subjects-genai-queens](https://github.com/elsayedelmandoh/russ-rag-based-tutor-for-specific-subjects-genai-queens) | private offline rag tutor over course pdfs. citation-backed answers, zero cloud leakage | python, langchain | ⭐ 2 |
-| [multimodal-chatbot](https://github.com/elsayedelmandoh/multimodal-chatbot) | text + image chatbot | python, cv, nlp | ⭐ 2 |
-| [web-search](https://github.com/elsayedelmandoh/web-search) | gradio app: google search + gemini for grounded, cited answers | python, gradio, gemini | ⭐ 2 |
-| [instructor-for-agentic-ai](https://github.com/elsayedelmandoh/instructor-for-agentic-ai) | groq api + gradio agent that teaches agentic ai | python, groq, gradio | ⭐ 2 |
-| [sentiment-sleuth](https://github.com/elsayedelmandoh/sentiment-sleuth) | traditional ml sentiment pipeline, sgd champion: acc 0.8903, f1 0.8902 | python, scikit-learn | ⭐ 2 |
-| [atari-rl-benchmarking](https://github.com/elsayedelmandoh/atari-rl-benchmarking) | dqn, ppo, discrete sac on atari (pong, breakout, space invaders) | gymnasium, sb3, pytorch, tensorboard | |
-| [lightweight-speech-emotion-recognition-on-open-datasets](https://github.com/elsayedelmandoh/lightweight-speech-emotion-recognition-on-open-datasets) | 6-class ser on ravdess: 1d cnn on log-mel (~150k params, cpu) vs mfcc+svm | pytorch, 1d cnn, svm | |
-| [cisc886-cloud-based-conversational-chatbot](https://github.com/elsayedelmandoh/cisc886-cloud-based-conversational-chatbot) | qlora fine-tuning on aws, served with ollama + openwebui | aws (ec2, emr, s3), pyspark, ollama | |
-| [cisc839-assignment-2](https://github.com/elsayedelmandoh/cisc839-assignment-2) | ai vs human prs: ai prs merge 79.5% faster | ols, kaplan-meier, cox | |
-| [detect-terrorists](https://github.com/elsayedelmandoh/detect-terrorists) | air defense college competition detector: 0.738 map50, 0.637 map50-95 | yolov8x, autodistill | |
+| project | what it does | stack |
+|---|---|---|
+| [spaceeye-geoai](https://github.com/elsayedelmandoh/spaceeye-geoai) | ranks 12 coded R7 compounds for an inspection committee from free satellite data (earth engine). three clocks (k2/k3/k6), streamlit dashboard + hybrid rag chatbot | chromadb, duckdb, gemini, arabic-nlp |
+| [russ-rag-based-tutor-for-specific-subjects-genai-queens](https://github.com/elsayedelmandoh/russ-rag-based-tutor-for-specific-subjects-genai-queens) | private offline rag tutor over course pdfs. citation-backed answers, zero cloud leakage | python, langchain |
+| [multimodal-chatbot](https://github.com/elsayedelmandoh/multimodal-chatbot) | text + image chatbot | python, cv, nlp |
+| [web-search](https://github.com/elsayedelmandoh/web-search) | gradio app: google search + gemini for grounded, cited answers | python, gradio, gemini |
+| [instructor-for-agentic-ai](https://github.com/elsayedelmandoh/instructor-for-agentic-ai) | groq api + gradio agent that teaches agentic ai | python, groq, gradio |
+| [sentiment-sleuth](https://github.com/elsayedelmandoh/sentiment-sleuth) | traditional ml sentiment pipeline, sgd champion: acc 0.8903, f1 0.8902 | python, scikit-learn |
+| [atari-rl-benchmarking](https://github.com/elsayedelmandoh/atari-rl-benchmarking) | dqn, ppo, discrete sac on atari (pong, breakout, space invaders) | gymnasium, sb3, pytorch, tensorboard |
+| [lightweight-speech-emotion-recognition-on-open-datasets](https://github.com/elsayedelmandoh/lightweight-speech-emotion-recognition-on-open-datasets) | 6-class ser on ravdess: 1d cnn on log-mel (~150k params, cpu) vs mfcc+svm | pytorch, 1d cnn, svm |
+| [detect-terrorists](https://github.com/elsayedelmandoh/detect-terrorists) | air defense college competition detector: 0.738 map50, 0.637 map50-95 | yolov8x, autodistill |
 
 ### competitions
 
