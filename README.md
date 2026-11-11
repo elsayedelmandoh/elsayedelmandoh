@@ -66,7 +66,7 @@ demo: [sentiment-sleuth on hugging face spaces](https://huggingface.co/spaces/el
 <img src="assets/education.svg" width="100%" alt="education: m.sc. artificial intelligence & data science (a+) at queen's university, 2026; aspire leaders program at harvard university, 2024; b.sc. artificial intelligence at egyptian russian university, 2020-2024."/>
 
 <img src="assets/h-certs.svg" width="100%" alt="certifications"/>
-<img src="assets/certs.svg" width="100%" alt="certifications: aws certified cloud practitioner, aws academy graduate (ml for nlp), aws machine learning foundations, aws academy cloud foundations, machine learning specialization (stanford / deeplearning.ai), tools of the trade: linux and sql (google), introduction to data engineering (ibm), python for data science, ai & development (ibm), langchain, chatgpt, decision making."/>
+<img src="assets/certs.svg" width="100%" alt="certifications: aws certified cloud practitioner, aws academy graduate (ml for nlp), aws machine learning foundations, aws academy cloud foundations, machine learning specialization (stanford / deeplearning.ai), tools of the trade: linux and sql (google), introduction to data engineering (ibm), python for data science, ai & development (ibm), langchain (electro pi), natural language processing (electro pi), computer vision (electro pi & kaggle)."/>
 
 <img src="assets/h-competitions.svg" width="100%" alt="competitions"/>
 <img src="assets/competitions.svg" width="100%" alt="competitions: arabic abstractive summarization at icmtc-23 (fine-tuned mt5); terrorist detection at itc-23 (yolov8x, 0.738 map50). also medgenius - 16th ugrf, su real life competition, itc-egypt adc, aic, egyptian startup olympics."/>
@@ -85,7 +85,7 @@ repos: [Arabic_Abstractive_Summarization](https://github.com/elsayedelmandoh/Ara
   <a href="https://open.spotify.com/user/t8vsvtmgjc583xv7d6dyxh2rb"><img src="assets/connect-spotify.svg" height="52" alt="spotify"/></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="if you made it this far, you should probably just follow me tbh"/>
+<img src="assets/footer.svg" width="100%" alt="disappear. grow. until u become the connection u once wished u had.."/>
 
 </div>
 
@@ -124,9 +124,9 @@ languages: arabic, english, russian (basics). off-keyboard: chess, gym, reading 
 - tools of the trade: linux and sql (google)
 - introduction to data engineering (ibm)
 - python for data science, ai & development (ibm)
-- langchain
-- chatgpt
-- decision making
+- langchain (electro pi)
+- natural language processing (electro pi)
+- computer vision (electro pi & kaggle)
 
 ### competitions
 

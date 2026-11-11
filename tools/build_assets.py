@@ -71,9 +71,9 @@ def header(title):
 
 
 def footer():
-    s = Svg(W, 90, "if you made it this far, you should probably just follow me tbh", frame=False)
+    s = Svg(W, 90, "disappear. grow. until u become the connection u once wished u had..", frame=False)
     s.add(f'<line x1="400" y1="20" x2="800" y2="20" class="ln"/>')
-    s.text(W / 2, 58, "if you made it this far, you should probably just follow me tbh", 18, "mu", True, "middle")
+    s.text(W / 2, 58, "disappear. grow. until u become the connection u once wished u had..", 18, "mu", True, "middle")
     return s
 
 
@@ -258,9 +258,9 @@ CERTS = [
     ("tools of the trade: linux and sql", "google", []),
     ("introduction to data engineering", "ibm", []),
     ("python for data science, ai & development", "ibm", []),
-    ("langchain", "", []),
-    ("chatgpt", "", []),
-    ("decision making", "", []),
+    ("langchain", "electro pi", []),
+    ("natural language processing", "electro pi", []),
+    ("computer vision", "electro pi & kaggle", []),
 ]
 
 

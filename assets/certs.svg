@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="402" viewBox="0 0 1200 402" role="img" aria-label="certifications: aws certified cloud practitioner (aws); aws academy graduate: machine learning for natural language processing (aws academy); aws machine learning foundations (aws); aws academy cloud foundations (aws academy); machine learning specialization (stanford / deeplearning.ai); tools of the trade: linux and sql (google); introduction to data engineering (ibm); python for data science, ai &amp; development (ibm); langchain; chatgpt; decision making">
-<title>certifications: aws certified cloud practitioner (aws); aws academy graduate: machine learning for natural language processing (aws academy); aws machine learning foundations (aws); aws academy cloud foundations (aws academy); machine learning specialization (stanford / deeplearning.ai); tools of the trade: linux and sql (google); introduction to data engineering (ibm); python for data science, ai &amp; development (ibm); langchain; chatgpt; decision making</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="442" viewBox="0 0 1200 442" role="img" aria-label="certifications: aws certified cloud practitioner (aws); aws academy graduate: machine learning for natural language processing (aws academy); aws machine learning foundations (aws); aws academy cloud foundations (aws academy); machine learning specialization (stanford / deeplearning.ai); tools of the trade: linux and sql (google); introduction to data engineering (ibm); python for data science, ai &amp; development (ibm); langchain (electro pi); natural language processing (electro pi); computer vision (electro pi &amp; kaggle)">
+<title>certifications: aws certified cloud practitioner (aws); aws academy graduate: machine learning for natural language processing (aws academy); aws machine learning foundations (aws); aws academy cloud foundations (aws academy); machine learning specialization (stanford / deeplearning.ai); tools of the trade: linux and sql (google); introduction to data engineering (ibm); python for data science, ai &amp; development (ibm); langchain (electro pi); natural language processing (electro pi); computer vision (electro pi &amp; kaggle)</title>
 <style>
 svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
 @media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
@@ -13,7 +13,7 @@ text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
 .bar{fill:var(--ac)}
 .ln{stroke:var(--bd);fill:none}
 </style>
-<rect x=".5" y=".5" width="1199" height="401" rx="12" class="card"/>
+<rect x=".5" y=".5" width="1199" height="441" rx="12" class="card"/>
 <text x="48" y="50" font-size="14" class="tx b">aws certified cloud practitioner</text>
 <text x="48" y="68" font-size="12" class="mu">aws</text>
 <rect x="30" y="34" width="4" height="34" rx="2" class="bar"/>
@@ -43,9 +43,12 @@ text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
 <text x="48" y="320" font-size="12" class="mu">ibm</text>
 <rect x="30" y="286" width="4" height="34" rx="2" class="bar"/>
 <text x="648" y="328" font-size="14" class="tx b">langchain</text>
-<rect x="630" y="312" width="4" height="14" rx="2" class="bar"/>
-<text x="48" y="366" font-size="14" class="tx b">chatgpt</text>
-<rect x="30" y="350" width="4" height="14" rx="2" class="bar"/>
-<text x="648" y="372" font-size="14" class="tx b">decision making</text>
-<rect x="630" y="356" width="4" height="14" rx="2" class="bar"/>
+<text x="648" y="346" font-size="12" class="mu">electro pi</text>
+<rect x="630" y="312" width="4" height="34" rx="2" class="bar"/>
+<text x="48" y="366" font-size="14" class="tx b">natural language processing</text>
+<text x="48" y="384" font-size="12" class="mu">electro pi</text>
+<rect x="30" y="350" width="4" height="34" rx="2" class="bar"/>
+<text x="648" y="392" font-size="14" class="tx b">computer vision</text>
+<text x="648" y="410" font-size="12" class="mu">electro pi &amp; kaggle</text>
+<rect x="630" y="376" width="4" height="34" rx="2" class="bar"/>
 </svg>
