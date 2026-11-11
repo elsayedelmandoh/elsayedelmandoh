@@ -217,37 +217,53 @@ HEAT = {
 }
 CELL, GAP, PAD, TOP = 11, 3, 15, 34
 STEP = CELL + GAP
+LEFT, MONTH_H = 28, 16  # weekday-label gutter, month-label strip above grid
+MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+MIN_MONTH_GAP = 3  # columns between month labels
+MORE_W = 30  # generous estimate of "More" at 11px, keeps legend squares clear of it
 
 
 def build_heatmap(theme, s):
     c, colors = THEMES[theme], HEAT[theme]
     total = s["contrib_total"]
     weeks = max(len(s["calendar"]), 53)
-    width = PAD * 2 + weeks * STEP - GAP
-    grid_bottom = TOP + 7 * STEP - GAP
+    gx, gy = PAD + LEFT, TOP + MONTH_H
+    width = gx + weeks * STEP - GAP + PAD
+    grid_bottom = gy + 7 * STEP - GAP
     height = grid_bottom + 40
-    rects = []
+    font = "font-family=\"-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif\""
+    lbl = f'fill="{c["text"]}" fill-opacity=".7" font-size="10" {font}'
+    rects, months, prev_month, last_x = [], [], None, None
     for x, week in enumerate(s["calendar"]):
+        if week:
+            m = int(week[0]["date"][5:7])
+            if m != prev_month and (last_x is None or x - last_x >= MIN_MONTH_GAP):
+                months.append(f'<text x="{gx + x * STEP}" y="{TOP + 10}" {lbl}>{esc(MONTHS[m - 1])}</text>')
+                last_x = x
+            prev_month = m
         for d in week:
             wd = (datetime.strptime(d["date"], "%Y-%m-%d").weekday() + 1) % 7  # Sunday=0
             lvl = LEVELS.index(d["level"]) if d["level"] in LEVELS else 0
             label = f'{d["count"]} contribution{"" if d["count"] == 1 else "s"} on {d["date"]}'
-            rects.append(f'<rect x="{PAD + x * STEP}" y="{TOP + wd * STEP}" width="{CELL}" height="{CELL}" '
+            rects.append(f'<rect x="{gx + x * STEP}" y="{gy + wd * STEP}" width="{CELL}" height="{CELL}" '
                          f'rx="2" fill="{colors[lvl]}"><title>{esc(label)}</title></rect>')
+    days = "".join(f'<text x="{gx - 6}" y="{gy + r * STEP + 9}" text-anchor="end" {lbl}>{esc(n)}</text>'
+                   for r, n in ((1, "Mon"), (3, "Wed"), (5, "Fri")))
     ly = grid_bottom + 15
-    lx = width - PAD - 5 * STEP + GAP
+    more_x = width - PAD
+    lx = more_x - MORE_W - 6 - (5 * STEP - GAP)  # left edge of first legend square
     legend = "".join(f'<rect x="{lx + i * STEP}" y="{ly}" width="{CELL}" height="{CELL}" rx="2" fill="{col}"/>'
                      for i, col in enumerate(colors))
-    font = "font-family=\"-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif\""
     title = esc(f"{total:,} contributions in the last year")
     return f"""<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}">
 <rect width="{width}" height="{height}" fill="{c['bg']}" rx="15"/>
 <text x="{PAD}" y="22" fill="{c['text']}" font-size="14" {font}>{title}</text>
+{"".join(months)}{days}
 {"".join(rects)}
 <text x="{lx - 6}" y="{ly + 10}" fill="{c['text']}" font-size="11" text-anchor="end" {font}>Less</text>
 {legend}
-<text x="{lx + 5 * STEP + 3}" y="{ly + 10}" fill="{c['text']}" font-size="11" {font}>More</text>
+<text x="{more_x}" y="{ly + 10}" fill="{c['text']}" font-size="11" text-anchor="end" {font}>More</text>
 </svg>
 """
 
