@@ -18,8 +18,11 @@ text{{font-family:{SANS}}}
 .ln{{stroke:var(--bd);fill:none}}"""
 
 
-def text_width(t, size):
-    return CHAR_W * size * len(t)
+SANS_W = 0.48  # avg lowercase advance for system sans fonts; mono keeps CHAR_W
+
+
+def text_width(t, size, mono=True):
+    return (CHAR_W if mono else SANS_W) * size * len(t)
 
 
 class Svg:
@@ -32,7 +35,7 @@ class Svg:
         self.parts.append(xml)
 
     def text(self, x, y, t, size=14, cls="tx", mono=False, anchor="start", bold=False):
-        wd = text_width(t, size)
+        wd = text_width(t, size, mono)
         lo, hi = {"start": (x, x + wd), "middle": (x - wd / 2, x + wd / 2), "end": (x - wd, x)}[anchor]
         assert lo >= 0 and hi <= self.w, f"text overflows {self.w}px: {t!r} ({lo:.0f}..{hi:.0f})"
         c = " ".join([cls] + (["m"] if mono else []) + (["b"] if bold else []))

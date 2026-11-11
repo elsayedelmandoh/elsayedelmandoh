@@ -88,7 +88,7 @@ def about():
         "matched-length truncation.",
         "languages: arabic, english, russian (basics).  off-keyboard: chess, gym, reading about 5gw/6gw warfare.",
     ]
-    lines = [wrap(p, 100) for p in paras]
+    lines = [wrap(p, 140) for p in paras]
     h = 40 + sum(len(l) * 24 + 12 for l in lines)
     s = Svg(W, h, " ".join(paras))
     y = 42
@@ -187,7 +187,7 @@ def timeline(label, entries):
         rows.append((y + 10, title, 18, "tx", False, True)); y += 24
         rows.append((y + 6, sub, 13, "mu", False, False)); y += 26
         for p in paras:
-            for ln in wrap(p, 118):
+            for ln in wrap(p, 158):
                 rows.append((y + 8, ln, 14, "tx", False, False)); y += 20
             y += 6
         layout.append((top, rows)); y += 20
@@ -201,18 +201,24 @@ def timeline(label, entries):
 
 
 EXPERIENCE = [
-    ("sep 2025 - present", "digilians program", "egyptian military academy / mcit · new capital, egypt", [
-        "selected from 40k+ applicants to enroll in the m.sc. at queen's university.",
-        "workshops with deloitte (pre-training vs fine-tuning, rag architectures, passive chatbots to active ai "
-        "agents, etl/elt for genai, mlops lifecycle), ibm (resume building, networking, star interviews) and dotpy "
-        "(startup fundamentals, freelancing); sessions at cairo ict (cyshield) on ai agents and at edex on ai in "
-        "drones, air defense and defense systems."]),
     ("oct - nov 2026", "data scientist", "administrative capital for urban development · new capital, egypt", [
         "smart-city iot/gis data cleaning and integration (python, sql/duckdb), documented quality checks with pii "
         "masking (law 151/2020), kpi pipeline with variance and root-cause analysis.",
         "built the ai component of spaceeye-geoai: inspection-file agent with verification log, complaints "
         "classifier, dashboard search/filters/map click, chatbot integration (python, streamlit, fastapi, duckdb, "
         "chromadb, gemini, scikit-learn, google earth engine data)."]),
+    ("sep 2025 - present", "digilians program", "egyptian military academy / mcit · new capital, egypt", [
+        "selected from 40k+ applicants to enroll in the m.sc. at queen's university.",
+        "workshops with deloitte (pre-training vs fine-tuning, rag architectures, passive chatbots to active ai "
+        "agents, etl/elt for genai, mlops lifecycle), ibm (resume building, networking, star interviews) and dotpy "
+        "(startup fundamentals, freelancing); sessions at cairo ict (cyshield) on ai agents and at edex on ai in "
+        "drones, air defense and defense systems."]),
+    ("oct 2024 - jun 2025", "head of artificial intelligence", "international modern school sayed galal · cairo, egypt", [
+        "joined as ai teacher (oct - nov 2024); promoted to head of ai (dec 2024 - jun 2025), leading ai curriculum "
+        "development and integration for the school's technology program and the ai teaching team.",
+        "taught python and ai to years 5-8 and grades 7-10 across american and british curricula; trained 25 "
+        "students in 5 teams for the british council code club competition; ran internal competitions to prepare "
+        "students for the code challenge championship (scratch, python, ai)."]),
     ("aug 2023 - aug 2025", "machine learning engineer", "electro pi · new cairo, egypt", [
         "designed and shipped 15+ production ml systems (harmful-prompt detector for llms, customer-service "
         "chatbot, code-quality evaluator, medical image analysis, automated eda, automated ml).",
@@ -220,13 +226,17 @@ EXPERIENCE = [
         "93% test accuracy; zero-code automl and autoeda platforms.",
         "completed 11 specialization tracks (python, eda, ml, dl, cv, nlp, llms, rag, prompt engineering, "
         "langchain)."]),
-    ("dec 2022 - feb 2023", "ai instructor", "huawei ict academy · egypt", [
-        "hcia, python & machine learning for 30 students; authored session plans, assignments and labs."]),
+    ("oct 2022 - feb 2023", "ai instructor", "huawei ict academy · egypt", [
+        "ai instructor (dec 2022 - feb 2023): hcia, python & machine learning for 30 students; authored session "
+        "plans, assignments and labs.",
+        "ai intern (oct - nov 2022): completed huawei's hcia course (ai, machine learning, deep learning) and "
+        "explored huawei's ai services and tools."]),
 ]
 EDUCATION = [
     ("jan - nov 2026", "m.sc. artificial intelligence & data science (a+)", "queen's university · kingston, canada", [
         "thesis: minimallm, verbosity-aware decoding for llms. supervisor: dr. rahatara ferdousi. sponsor: deloitte "
         "(mentor collaboration bridging academic llm research with enterprise ai deployment)."]),
+    ("apr - aug 2024", "aspire leaders program", "harvard university", []),
     ("oct 2020 - jul 2024", "b.sc. artificial intelligence", "egyptian russian university (eru) · cairo", [
         "studied ml, dl, nlp, cv; russian language 1 & 2 (a+ in both); represented eru in ai competitions at auc, "
         "nile university, military technical college and air defense college.",

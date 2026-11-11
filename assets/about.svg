@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="268" viewBox="0 0 1200 268" role="img" aria-label="nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in ai &amp; data science (a+) at queen&#x27;s university, canada. thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits processor cut output tokens 25-35% on mistral-7b, llama-3.1-8b and qwen2.5-3b. an audit showed it was learned early stopping, so i built an entailment-licensed sentence-elision method that beats matched-length truncation. languages: arabic, english, russian (basics).  off-keyboard: chess, gym, reading about 5gw/6gw warfare.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in ai &amp; data science (a+) at queen&#x27;s university, canada. thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits processor cut output tokens 25-35% on mistral-7b, llama-3.1-8b and qwen2.5-3b. an audit showed it was learned early stopping, so i built an entailment-licensed sentence-elision method that beats matched-length truncation. languages: arabic, english, russian (basics).  off-keyboard: chess, gym, reading about 5gw/6gw warfare.">
 <title>nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in ai &amp; data science (a+) at queen&#x27;s university, canada. thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits processor cut output tokens 25-35% on mistral-7b, llama-3.1-8b and qwen2.5-3b. an audit showed it was learned early stopping, so i built an entailment-licensed sentence-elision method that beats matched-length truncation. languages: arabic, english, russian (basics).  off-keyboard: chess, gym, reading about 5gw/6gw warfare.</title>
 <style>
 svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
@@ -13,13 +13,11 @@ text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
 .bar{fill:var(--ac)}
 .ln{stroke:var(--bd);fill:none}
 </style>
-<rect x=".5" y=".5" width="1199" height="267" rx="12" class="card"/>
-<text x="30" y="42" font-size="16" class="tx">nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in</text>
-<text x="30" y="66" font-size="16" class="tx">ai &amp; data science (a+) at queen&#x27;s university, canada.</text>
-<text x="30" y="102" font-size="16" class="tx">thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits</text>
-<text x="30" y="126" font-size="16" class="tx">processor cut output tokens 25-35% on mistral-7b, llama-3.1-8b and qwen2.5-3b. an audit showed it</text>
-<text x="30" y="150" font-size="16" class="tx">was learned early stopping, so i built an entailment-licensed sentence-elision method that beats</text>
-<text x="30" y="174" font-size="16" class="tx">matched-length truncation.</text>
-<text x="30" y="210" font-size="16" class="tx">languages: arabic, english, russian (basics).  off-keyboard: chess, gym, reading about 5gw/6gw</text>
-<text x="30" y="234" font-size="16" class="tx">warfare.</text>
+<rect x=".5" y=".5" width="1199" height="219" rx="12" class="card"/>
+<text x="30" y="42" font-size="16" class="tx">nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in ai &amp; data science (a+) at queen&#x27;s</text>
+<text x="30" y="66" font-size="16" class="tx">university, canada.</text>
+<text x="30" y="102" font-size="16" class="tx">thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits processor cut output tokens 25-35% on</text>
+<text x="30" y="126" font-size="16" class="tx">mistral-7b, llama-3.1-8b and qwen2.5-3b. an audit showed it was learned early stopping, so i built an entailment-licensed sentence-elision</text>
+<text x="30" y="150" font-size="16" class="tx">method that beats matched-length truncation.</text>
+<text x="30" y="186" font-size="16" class="tx">languages: arabic, english, russian (basics).  off-keyboard: chess, gym, reading about 5gw/6gw warfare.</text>
 </svg>

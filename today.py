@@ -76,10 +76,16 @@ def fetch_langs():
     return rank_langs([(n, c, b) for n, (c, b) in totals.items()])
 
 
+EXCLUDE_LANGS = {"Jupyter Notebook"}  # notebook json bytes swamp real code
+MIN_SHARE = 0.01  # langs under 1% fold into "other"
+
+
 def rank_langs(items):
-    items = sorted(items, key=lambda x: -x[2])
-    top, rest = items[:TOP_LANGS], sum(b for _, _, b in items[TOP_LANGS:])
-    return top + ([("other", OTHER_COLOR, rest)] if rest else [])
+    items = sorted((x for x in items if x[0] not in EXCLUDE_LANGS), key=lambda x: -x[2])
+    total = sum(b for _, _, b in items) or 1
+    keep = [x for x in items if x[2] / total >= MIN_SHARE][:TOP_LANGS]
+    rest = sum(b for _, _, b in items) - sum(b for _, _, b in keep)
+    return keep + ([("other", OTHER_COLOR, rest)] if rest else [])
 
 
 def fetch_stats():
