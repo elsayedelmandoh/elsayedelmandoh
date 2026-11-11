@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="306" viewBox="0 0 1200 306" role="img" aria-label="toolbox: languages: python, sql; ml / dl: pytorch, tensorflow, keras, scikit-learn; nlp &amp; llm: hugging face, langchain, langgraph, spacy, nltk, gensim, rag, prompt engineering; cv &amp; rl: yolov8, opencv, stable-baselines3; apps &amp; infra: gemini, groq, ollama, qlora, fastapi, streamlit, gradio, docker, git, linux, aws; data: mysql, sqlite, duckdb, chromadb">
+<title>toolbox: languages: python, sql; ml / dl: pytorch, tensorflow, keras, scikit-learn; nlp &amp; llm: hugging face, langchain, langgraph, spacy, nltk, gensim, rag, prompt engineering; cv &amp; rl: yolov8, opencv, stable-baselines3; apps &amp; infra: gemini, groq, ollama, qlora, fastapi, streamlit, gradio, docker, git, linux, aws; data: mysql, sqlite, duckdb, chromadb</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="1199" height="305" rx="12" class="card"/>
+<text x="28" y="45" font-size="14" class="mu m">languages</text>
+<rect x="170" y="28" width="70.8" height="26" rx="13" class="chip"/>
+<text x="205.4" y="45.55" font-size="13" class="tx m" text-anchor="middle">python</text>
+<rect x="250.8" y="28" width="47.4" height="26" rx="13" class="chip"/>
+<text x="274.5" y="45.55" font-size="13" class="tx m" text-anchor="middle">sql</text>
+<text x="28" y="91" font-size="14" class="mu m">ml / dl</text>
+<rect x="170" y="74" width="78.6" height="26" rx="13" class="chip"/>
+<text x="209.3" y="91.55" font-size="13" class="tx m" text-anchor="middle">pytorch</text>
+<rect x="258.6" y="74" width="102" height="26" rx="13" class="chip"/>
+<text x="309.6" y="91.55" font-size="13" class="tx m" text-anchor="middle">tensorflow</text>
+<rect x="370.6" y="74" width="63" height="26" rx="13" class="chip"/>
+<text x="402.1" y="91.55" font-size="13" class="tx m" text-anchor="middle">keras</text>
+<rect x="443.6" y="74" width="117.6" height="26" rx="13" class="chip"/>
+<text x="502.4" y="91.55" font-size="13" class="tx m" text-anchor="middle">scikit-learn</text>
+<text x="28" y="137" font-size="14" class="mu m">nlp &amp; llm</text>
+<rect x="170" y="120" width="117.6" height="26" rx="13" class="chip"/>
+<text x="228.8" y="137.55" font-size="13" class="tx m" text-anchor="middle">hugging face</text>
+<rect x="297.6" y="120" width="94.2" height="26" rx="13" class="chip"/>
+<text x="344.7" y="137.55" font-size="13" class="tx m" text-anchor="middle">langchain</text>
+<rect x="401.8" y="120" width="94.2" height="26" rx="13" class="chip"/>
+<text x="448.9" y="137.55" font-size="13" class="tx m" text-anchor="middle">langgraph</text>
+<rect x="506" y="120" width="63" height="26" rx="13" class="chip"/>
+<text x="537.5" y="137.55" font-size="13" class="tx m" text-anchor="middle">spacy</text>
+<rect x="579" y="120" width="55.2" height="26" rx="13" class="chip"/>
+<text x="606.6" y="137.55" font-size="13" class="tx m" text-anchor="middle">nltk</text>
+<rect x="644.2" y="120" width="70.8" height="26" rx="13" class="chip"/>
+<text x="679.6" y="137.55" font-size="13" class="tx m" text-anchor="middle">gensim</text>
+<rect x="725" y="120" width="47.4" height="26" rx="13" class="chip"/>
+<text x="748.7" y="137.55" font-size="13" class="tx m" text-anchor="middle">rag</text>
+<rect x="782.4" y="120" width="164.4" height="26" rx="13" class="chip"/>
+<text x="864.6" y="137.55" font-size="13" class="tx m" text-anchor="middle">prompt engineering</text>
+<text x="28" y="183" font-size="14" class="mu m">cv &amp; rl</text>
+<rect x="170" y="166" width="70.8" height="26" rx="13" class="chip"/>
+<text x="205.4" y="183.55" font-size="13" class="tx m" text-anchor="middle">yolov8</text>
+<rect x="250.8" y="166" width="70.8" height="26" rx="13" class="chip"/>
+<text x="286.2" y="183.55" font-size="13" class="tx m" text-anchor="middle">opencv</text>
+<rect x="331.6" y="166" width="156.6" height="26" rx="13" class="chip"/>
+<text x="409.9" y="183.55" font-size="13" class="tx m" text-anchor="middle">stable-baselines3</text>
+<text x="28" y="229" font-size="14" class="mu m">apps &amp; infra</text>
+<rect x="170" y="212" width="70.8" height="26" rx="13" class="chip"/>
+<text x="205.4" y="229.55" font-size="13" class="tx m" text-anchor="middle">gemini</text>
+<rect x="250.8" y="212" width="55.2" height="26" rx="13" class="chip"/>
+<text x="278.4" y="229.55" font-size="13" class="tx m" text-anchor="middle">groq</text>
+<rect x="316" y="212" width="70.8" height="26" rx="13" class="chip"/>
+<text x="351.4" y="229.55" font-size="13" class="tx m" text-anchor="middle">ollama</text>
+<rect x="396.8" y="212" width="63" height="26" rx="13" class="chip"/>
+<text x="428.3" y="229.55" font-size="13" class="tx m" text-anchor="middle">qlora</text>
+<rect x="469.8" y="212" width="78.6" height="26" rx="13" class="chip"/>
+<text x="509.1" y="229.55" font-size="13" class="tx m" text-anchor="middle">fastapi</text>
+<rect x="558.4" y="212" width="94.2" height="26" rx="13" class="chip"/>
+<text x="605.5" y="229.55" font-size="13" class="tx m" text-anchor="middle">streamlit</text>
+<rect x="662.6" y="212" width="70.8" height="26" rx="13" class="chip"/>
+<text x="698" y="229.55" font-size="13" class="tx m" text-anchor="middle">gradio</text>
+<rect x="743.4" y="212" width="70.8" height="26" rx="13" class="chip"/>
+<text x="778.8" y="229.55" font-size="13" class="tx m" text-anchor="middle">docker</text>
+<rect x="824.2" y="212" width="47.4" height="26" rx="13" class="chip"/>
+<text x="847.9" y="229.55" font-size="13" class="tx m" text-anchor="middle">git</text>
+<rect x="881.6" y="212" width="63" height="26" rx="13" class="chip"/>
+<text x="913.1" y="229.55" font-size="13" class="tx m" text-anchor="middle">linux</text>
+<rect x="954.6" y="212" width="47.4" height="26" rx="13" class="chip"/>
+<text x="978.3" y="229.55" font-size="13" class="tx m" text-anchor="middle">aws</text>
+<text x="28" y="275" font-size="14" class="mu m">data</text>
+<rect x="170" y="258" width="63" height="26" rx="13" class="chip"/>
+<text x="201.5" y="275.55" font-size="13" class="tx m" text-anchor="middle">mysql</text>
+<rect x="243" y="258" width="70.8" height="26" rx="13" class="chip"/>
+<text x="278.4" y="275.55" font-size="13" class="tx m" text-anchor="middle">sqlite</text>
+<rect x="323.8" y="258" width="70.8" height="26" rx="13" class="chip"/>
+<text x="359.2" y="275.55" font-size="13" class="tx m" text-anchor="middle">duckdb</text>
+<rect x="404.6" y="258" width="86.4" height="26" rx="13" class="chip"/>
+<text x="447.8" y="275.55" font-size="13" class="tx m" text-anchor="middle">chromadb</text>
+</svg>

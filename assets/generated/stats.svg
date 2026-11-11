@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="github stats: 112 repositories, 23 stars, 940 commits, 30 followers, 730 contributions in the last year, 2,602,226 net lines of code (+3,312,414 -710,188)">
+<title>github stats: 112 repositories, 23 stars, 940 commits, 30 followers, 730 contributions in the last year, 2,602,226 net lines of code (+3,312,414 -710,188)</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="1199" height="289" rx="12" class="card"/>
+<rect x="28" y="20" width="216" height="100" rx="10" class="card"/>
+<text x="44" y="48" font-size="13" class="mu">repositories</text>
+<text x="44" y="86" font-size="30" class="ac m b">112</text>
+<text x="44" y="108" font-size="12" class="mu">+ 1 contributed to</text>
+<rect x="260" y="20" width="216" height="100" rx="10" class="card"/>
+<text x="276" y="48" font-size="13" class="mu">stars</text>
+<text x="276" y="86" font-size="30" class="ac m b">23</text>
+<rect x="492" y="20" width="216" height="100" rx="10" class="card"/>
+<text x="508" y="48" font-size="13" class="mu">commits</text>
+<text x="508" y="86" font-size="30" class="ac m b">940</text>
+<rect x="724" y="20" width="216" height="100" rx="10" class="card"/>
+<text x="740" y="48" font-size="13" class="mu">followers</text>
+<text x="740" y="86" font-size="30" class="ac m b">30</text>
+<rect x="956" y="20" width="216" height="100" rx="10" class="card"/>
+<text x="972" y="48" font-size="13" class="mu">contributions</text>
+<text x="972" y="86" font-size="30" class="ac m b">730</text>
+<text x="972" y="108" font-size="12" class="mu">last year</text>
+<rect x="28" y="136" width="1144" height="134" rx="10" class="card" style="stroke:var(--ac)" stroke-width="1.5"/>
+<text x="48" y="164" font-size="13" class="mu">lines of code</text>
+<text x="48" y="210" font-size="40" class="ac m b">2,602,226</text>
+<text x="48" y="248" font-size="18" class="ok m">+3,312,414</text>
+<text x="180" y="248" font-size="18" class="bad m">-710,188</text>
+</svg>

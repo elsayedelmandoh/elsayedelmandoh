@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="146" viewBox="0 0 1200 146" role="img" aria-label="top languages: Jupyter Notebook 94.6%, Python 2.8%, HTML 2.3%, JavaScript 0.2%, C# 0.0%, CSS 0.0%, other 0.1%">
+<title>top languages: Jupyter Notebook 94.6%, Python 2.8%, HTML 2.3%, JavaScript 0.2%, C# 0.0%, CSS 0.0%, other 0.1%</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="1199" height="145" rx="12" class="card"/>
+<text x="28" y="34" font-size="14" class="mu m">top languages</text>
+<clipPath id="bc"><rect x="28" y="48" width="1144" height="14" rx="7"/></clipPath><g clip-path="url(#bc)">
+<rect x="28.00" y="48" width="1081.82" height="14" fill="#DA5B0B"/>
+<rect x="1109.82" y="48" width="31.55" height="14" fill="#3572A5"/>
+<rect x="1141.37" y="48" width="26.87" height="14" fill="#e34c26"/>
+<rect x="1168.24" y="48" width="2.74" height="14" fill="#f1e05a"/>
+<rect x="1170.99" y="48" width="0.21" height="14" fill="#7355dd"/>
+<rect x="1171.19" y="48" width="0.20" height="14" fill="#663399"/>
+<rect x="1171.40" y="48" width="0.60" height="14" fill="#8b949e"/>
+</g>
+<circle cx="33" cy="92" r="5" fill="#DA5B0B"/>
+<text x="46" y="96" font-size="14" class="tx">Jupyter Notebook 94.6%</text>
+<circle cx="313" cy="92" r="5" fill="#3572A5"/>
+<text x="326" y="96" font-size="14" class="tx">Python 2.8%</text>
+<circle cx="593" cy="92" r="5" fill="#e34c26"/>
+<text x="606" y="96" font-size="14" class="tx">HTML 2.3%</text>
+<circle cx="873" cy="92" r="5" fill="#f1e05a"/>
+<text x="886" y="96" font-size="14" class="tx">JavaScript 0.2%</text>
+<circle cx="33" cy="120" r="5" fill="#7355dd"/>
+<text x="46" y="124" font-size="14" class="tx">C# 0.0%</text>
+<circle cx="313" cy="120" r="5" fill="#663399"/>
+<text x="326" y="124" font-size="14" class="tx">CSS 0.0%</text>
+<circle cx="593" cy="120" r="5" fill="#8b949e"/>
+<text x="606" y="124" font-size="14" class="tx">other 0.1%</text>
+</svg>

@@ -6,7 +6,11 @@ from datetime import date, datetime
 from html import escape
 from pathlib import Path
 
+import re
+
 import requests
+
+from tools.svgkit import Svg
 
 # ---------- config: edit these ----------
 USER = "elsayedelmandoh"
@@ -49,11 +53,40 @@ def gql(query, variables):
     return data["data"]
 
 
+OTHER_COLOR = "#8b949e"
+TOP_LANGS = 6
+
+
+def fetch_langs():
+    """bytes per language over my non-fork repos -> [(name, color, bytes)] top 6 + other."""
+    totals, cursor = {}, None
+    while True:
+        d = gql("""query($l:String!,$c:String){user(login:$l){repositories(first:100,after:$c,
+            ownerAffiliations:OWNER,isFork:false){pageInfo{hasNextPage endCursor}
+            nodes{languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}""",
+                {"l": USER, "c": cursor})["user"]["repositories"]
+        for repo in d["nodes"]:
+            for e in repo["languages"]["edges"]:
+                name = e["node"]["name"]
+                color, size = totals.get(name, (e["node"]["color"], 0))
+                totals[name] = (color, size + e["size"])
+        if not d["pageInfo"]["hasNextPage"]:
+            break
+        cursor = d["pageInfo"]["endCursor"]
+    return rank_langs([(n, c, b) for n, (c, b) in totals.items()])
+
+
+def rank_langs(items):
+    items = sorted(items, key=lambda x: -x[2])
+    top, rest = items[:TOP_LANGS], sum(b for _, _, b in items[TOP_LANGS:])
+    return top + ([("other", OTHER_COLOR, rest)] if rest else [])
+
+
 def fetch_stats():
     if not TOKEN:
         print("no ACCESS_TOKEN -> offline preview with dummy numbers")
         return dict(repos=0, contributed=0, stars=0, commits=0, followers=0, add=0, dele=0,
-                    contrib_total=0, calendar=[])
+                    contrib_total=0, calendar=[], langs=[])
 
     u = gql("""query($l:String!){user(login:$l){id createdAt
         followers{totalCount}
@@ -113,10 +146,12 @@ def fetch_stats():
     calendar = [[dict(date=d["date"], count=d["contributionCount"], level=d["contributionLevel"])
                  for d in w["contributionDays"]] for w in cal["weeks"]]
 
+    langs = fetch_langs()
+
     return dict(repos=u["repositories"]["totalCount"],
                 contributed=u["repositoriesContributedTo"]["totalCount"],
                 stars=stars, commits=commits, followers=u["followers"]["totalCount"],
-                add=add, dele=dele, contrib_total=cal["totalContributions"], calendar=calendar)
+                add=add, dele=dele, contrib_total=cal["totalContributions"], calendar=calendar, langs=langs)
 
 
 def uptime():
@@ -268,11 +303,111 @@ def build_heatmap(theme, s):
 """
 
 
-HEAT_FILES = {"dark_mode": "contrib_dark.svg", "light_mode": "contrib_light.svg"}
+GEN = ROOT / "assets" / "generated"
+HEAT_FILES = {"dark_mode": GEN / "contrib_dark.svg", "light_mode": GEN / "contrib_light.svg"}
+TILE_W, TILE_GAP, TILE_X = 216, 16, 28
+
+
+def tile(s, x, y, w, h, label, value, sub=None, size=30):
+    s.add(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="10" class="card"/>')
+    s.text(x + 16, y + 28, label, 13, "mu")
+    s.text(x + 16, y + 28 + size + 8, value, size, "ac", True, bold=True)
+    if sub:
+        s.text(x + 16, y + h - 12, sub, 12, "mu")
+
+
+def build_stats(s):
+    n = lambda x: f"{x:,}"
+    svg = Svg(1200, 290, "github stats")
+    tiles = [("repositories", n(s["repos"]), f'+ {n(s["contributed"])} contributed to'),
+             ("stars", n(s["stars"]), None), ("commits", n(s["commits"]), None),
+             ("followers", n(s["followers"]), None),
+             ("contributions", n(s["contrib_total"]), "last year")]
+    for i, (lab, val, sub) in enumerate(tiles):
+        tile(svg, TILE_X + i * (TILE_W + TILE_GAP), 20, TILE_W, 100, lab, val, sub)
+    net, add, dele = s["add"] - s["dele"], f'+{s["add"]:,}', f'-{s["dele"]:,}'
+    svg.add(f'<rect x="{TILE_X}" y="136" width="1144" height="134" rx="10" class="card" '
+            'style="stroke:var(--ac)" stroke-width="1.5"/>')
+    svg.text(TILE_X + 20, 164, "lines of code", 13, "mu")
+    svg.text(TILE_X + 20, 210, n(net), 40, "ac", True, bold=True)
+    end = svg.text(TILE_X + 20, 248, add, 18, "ok", True)
+    svg.text(end + 24, 248, dele, 18, "bad", True)
+    svg.label = (f"github stats: {n(s['repos'])} repositories, {n(s['stars'])} stars, {n(s['commits'])} commits, "
+                 f"{n(s['followers'])} followers, {n(s['contrib_total'])} contributions in the last year, "
+                 f"{n(net)} net lines of code ({add} {dele})")
+    return svg.render()
+
+
+def streak_stats(calendar, today=None):
+    """(current, longest) from weeks->days. current may end today or yesterday."""
+    days = [d for w in calendar for d in w]
+    if today:
+        days = [d for d in days if d["date"] <= today]
+    days.sort(key=lambda d: d["date"])
+    longest = run = 0
+    for d in days:
+        run = run + 1 if d["count"] > 0 else 0
+        longest = max(longest, run)
+    if days and days[-1]["count"] == 0:
+        days = days[:-1]  # today still in progress
+    current = 0
+    for d in reversed(days):
+        if d["count"] <= 0:
+            break
+        current += 1
+    return current, longest
+
+
+def build_streak(s):
+    cur, best = streak_stats(s["calendar"], date.today().isoformat())
+    svg = Svg(1200, 150, f"streak: current {cur} days, longest {best} days, "
+                         f"{s['contrib_total']:,} contributions in the last year")
+    w = (1144 - 2 * TILE_GAP) // 3
+    for i, (lab, val, sub) in enumerate([("current streak", cur, "days"), ("longest streak", best, "days"),
+                                         ("total contributions", s["contrib_total"], "last year")]):
+        tile(svg, TILE_X + i * (w + TILE_GAP), 20, w, 110, lab, f"{val:,}", sub, 38)
+    return svg.render()
+
+
+COLOR_RE = re.compile(r"^#[0-9a-fA-F]{6}$")
+LEG_COLS, LEG_W = 4, 280
+
+
+def build_langs(s):
+    langs = s.get("langs") or []
+    total = sum(b for _, _, b in langs)
+    if not total:
+        svg = Svg(1200, 110, "top languages: no data")
+        svg.text(28, 36, "top languages", 14, "mu", True)
+        svg.text(600, 72, "no data", 16, "mu", False, "middle")
+        return svg.render()
+    rows = (len(langs) + LEG_COLS - 1) // LEG_COLS
+    svg = Svg(1200, 90 + rows * 28, "top languages: " + ", ".join(
+        f"{n} {b * 100 / total:.1f}%" for n, _, b in langs))
+    svg.text(28, 34, "top languages", 14, "mu", True)
+    bx, bw = 28, 1144
+    svg.add(f'<clipPath id="bc"><rect x="{bx}" y="48" width="{bw}" height="14" rx="7"/></clipPath>'
+            '<g clip-path="url(#bc)">')
+    x = bx
+    fills = [c if c and COLOR_RE.match(c) else OTHER_COLOR for _, c, _ in langs]
+    for fill, (_, _, b) in zip(fills, langs):
+        w = bw * b / total
+        svg.add(f'<rect x="{x:.2f}" y="48" width="{w:.2f}" height="14" fill="{fill}"/>')
+        x += w
+    svg.add("</g>")
+    for i, ((name, _, b), fill) in enumerate(zip(langs, fills)):
+        lx, ly = 28 + (i % LEG_COLS) * LEG_W, 96 + (i // LEG_COLS) * 28
+        svg.add(f'<circle cx="{lx + 5}" cy="{ly - 4}" r="5" fill="{fill}"/>')
+        svg.text(lx + 18, ly, f"{name} {b * 100 / total:.1f}%", 14, "tx")
+    return svg.render()
 
 if __name__ == "__main__":
     stats = fetch_stats()
+    GEN.mkdir(parents=True, exist_ok=True)
+    (GEN / "stats.svg").write_text(build_stats(stats), encoding="utf-8")
+    (GEN / "streak.svg").write_text(build_streak(stats), encoding="utf-8")
+    (GEN / "langs.svg").write_text(build_langs(stats), encoding="utf-8")
     for theme in THEMES:
         (ROOT / f"{theme}.svg").write_text(build(theme, stats), encoding="utf-8")
-        (ROOT / HEAT_FILES[theme]).write_text(build_heatmap(theme, stats), encoding="utf-8")
-    print("done:", {k: v for k, v in stats.items() if k != "calendar"})
+        HEAT_FILES[theme].write_text(build_heatmap(theme, stats), encoding="utf-8")
+    print("done:", {k: v for k, v in stats.items() if k not in ("calendar", "langs")})

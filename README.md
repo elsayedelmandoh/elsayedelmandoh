@@ -1,150 +1,135 @@
-<p align="center">
-  <a href="https://github.com/elsayedelmandoh">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-      <img alt="elsayed elmandoh's github profile" src="light_mode.svg">
-    </picture>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFF00&center=true&vCenter=true&width=520&lines=nlp+engineer;ai+agents+builder;master%27s+%40+queen%27s+university" alt="typing svg" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logoColor=white" alt="linkedin"/></a>
-  <!-- TODO confirm X handle -->
-  <a href="https://x.com/aangparker"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
-  <a href="mailto:elsayedelmandoh7@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-</p>
-
----
-
-### about me
-
-nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in ai & data science (a+) from queen's university, canada.
-
-thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits processor cut output tokens 25-35% on mistral-7b, llama-3.1-8b and qwen2.5-3b; an audit showed it was learned early stopping, so i built an entailment-licensed sentence-elision method that beats matched-length truncation.
-
-languages: arabic, english, russian (basics)
-
-off-keyboard: chess, gym, and reading about 5gw/6gw warfares.
-
-### tech stack
+<img src="assets/banner.svg" width="100%" alt="elsayed elmandoh - nlp/llm engineer · rag pipelines · agentic ai · m.sc. ai & data science @ queen's university, kingston, canada"/>
 
 <p>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="pytorch" />
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="tensorflow" />
-  <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="opencv" />
+  <a href="https://github.com/elsayedelmandoh"><img src="assets/connect-github.svg" height="52" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/elsayed-elmandoh-b5849a1b8/"><img src="assets/connect-linkedin.svg" height="52" alt="linkedin"/></a>
+  <a href="mailto:elsayedelmandoh7@gmail.com"><img src="assets/connect-email.svg" height="52" alt="email"/></a>
+  <a href="https://x.com/aangparker"><img src="assets/connect-x.svg" height="52" alt="x"/></a>
+  <a href="https://huggingface.co/elsayedelmandoh"><img src="assets/connect-huggingface.svg" height="52" alt="hugging face"/></a>
+  <a href="https://www.kaggle.com/elsayedelmandoh"><img src="assets/connect-kaggle.svg" height="52" alt="kaggle"/></a>
+  <a href="https://open.spotify.com/user/t8vsvtmgjc583xv7d6dyxh2rb"><img src="assets/connect-spotify.svg" height="52" alt="spotify"/></a>
 </p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/h-about.svg" width="100%" alt="about"/>
+<img src="assets/about.svg" width="100%" alt="nlp/llm engineer with 2+ years of production ml (rag pipelines, end-to-end nlp). m.sc. in ai & data science (a+) at queen's university. thesis: minimallm, verbosity-aware decoding for llms, sponsored by deloitte. languages: arabic, english, russian (basics). off-keyboard: chess, gym, 5gw/6gw warfare."/>
+
+<img src="assets/h-focus.svg" width="100%" alt="current focus"/>
+<img src="assets/focus.svg" width="100%" alt="current focus: finishing the queen's m.sc. thesis on verbosity-aware llm decoding; building rag systems and ai agents; data science for smart-city and geospatial ai (spaceeye-geoai)."/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/h-projects.svg" width="100%" alt="projects"/>
+
+<a href="https://github.com/elsayedelmandoh/spaceeye-geoai"><img src="assets/card-spaceeye.svg" width="32%" alt="spaceeye-geoai: ranks 12 coded r7 compounds for an inspection committee from free public satellite data. chromadb, duckdb, gemini, streamlit."/></a>
+<a href="https://github.com/elsayedelmandoh/russ-rag-based-tutor-for-specific-subjects-genai-queens"><img src="assets/card-russ.svg" width="32%" alt="russ: private offline rag tutor over course pdfs with citation-backed answers. langchain, chromadb, hf embeddings."/></a>
+<a href="https://github.com/elsayedelmandoh/atari-rl-benchmarking"><img src="assets/card-atari.svg" width="32%" alt="atari-rl-benchmarking: dqn, ppo and a custom discretesac on pong, breakout, space invaders. pytorch, gymnasium, sb3."/></a>
+<br/>
+<a href="https://github.com/elsayedelmandoh/cisc886-cloud-based-conversational-chatbot"><img src="assets/card-cloud-chatbot.svg" width="32%" alt="cloud chatbot: tinyllama 1.1b fine-tuned with qlora on aws, served with ollama on ec2. aws, qlora, spark, ollama."/></a>
+<a href="https://github.com/elsayedelmandoh/lightweight-speech-emotion-recognition-on-open-datasets"><img src="assets/card-speech.svg" width="32%" alt="speech emotion: 6-class ser on ravdess with a 1d cnn on log-mel vs mfcc+svm. pytorch, librosa, scikit-learn."/></a>
+<a href="https://github.com/elsayedelmandoh/sentiment-sleuth"><img src="assets/card-sentiment.svg" width="32%" alt="sentiment-sleuth: traditional ml sentiment pipeline, sgd champion acc 0.8903 / f1 0.8902. sgd, tf-idf, nltk."/></a>
+
+demo: [sentiment-sleuth on hugging face spaces](https://huggingface.co/spaces/elsayedelmandoh/sentiment-sleuth)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/h-activity.svg" width="100%" alt="activity"/>
+<img src="assets/generated/stats.svg" width="100%" alt="github stats: repositories, stars, commits, followers, contributions in the last year and total lines of code"/>
+<img src="assets/generated/streak.svg" width="100%" alt="contribution streak: current streak, longest streak and total contributions in the last year"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/contrib_dark.svg">
+  <img src="assets/generated/contrib_light.svg" alt="github contribution heatmap for the last year"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/snake-dark.svg">
+  <img src="assets/generated/snake.svg" width="100%" alt="snake eating my github contribution graph"/>
+</picture>
+
+<img src="assets/generated/langs.svg" width="100%" alt="top languages by bytes across my repositories"/>
+
+<img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=0ea5e9&style=flat-square" alt="profile views"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/h-stack.svg" width="100%" alt="toolbox"/>
+<img src="assets/stack.svg" width="100%" alt="toolbox. languages: python, sql. ml/dl: pytorch, tensorflow, keras, scikit-learn. nlp & llm: hugging face, langchain, langgraph, spacy, nltk, gensim, rag, prompt engineering. cv & rl: yolov8, opencv, stable-baselines3. apps & infra: gemini, groq, ollama, qlora, fastapi, streamlit, gradio, docker, git, linux, aws. data: mysql, sqlite, duckdb, chromadb."/>
+
+<img src="assets/h-experience.svg" width="100%" alt="experience"/>
+<img src="assets/experience.svg" width="100%" alt="experience: digilians program (sep 2025 - present); data scientist at administrative capital for urban development (oct - nov 2026); machine learning engineer at electro pi (aug 2023 - aug 2025); ai instructor at huawei ict academy (dec 2022 - feb 2023)."/>
+
+<img src="assets/h-education.svg" width="100%" alt="education"/>
+<img src="assets/education.svg" width="100%" alt="education: m.sc. artificial intelligence & data science (a+) at queen's university, 2026; b.sc. artificial intelligence at egyptian russian university, 2020-2024."/>
+
+<img src="assets/h-certs.svg" width="100%" alt="certifications"/>
+<img src="assets/certs.svg" width="100%" alt="certifications: aws certified cloud practitioner, aws academy graduate (ml for nlp), aws machine learning foundations, aws academy cloud foundations, machine learning specialization (stanford / deeplearning.ai), tools of the trade: linux and sql (google), introduction to data engineering (ibm), python for data science, ai & development (ibm), langchain, chatgpt, decision making."/>
+
+<img src="assets/h-competitions.svg" width="100%" alt="competitions"/>
+<img src="assets/competitions.svg" width="100%" alt="competitions: arabic abstractive summarization at icmtc-23 (fine-tuned mt5); terrorist detection at itc-23 (yolov8x, 0.738 map50). also medgenius - 16th ugrf, su real life competition, itc-egypt adc, aic, egyptian startup olympics."/>
+
+repos: [Arabic_Abstractive_Summarization](https://github.com/elsayedelmandoh/Arabic_Abstractive_Summarization) · [detect-terrorists](https://github.com/elsayedelmandoh/detect-terrorists)
+
+<img src="assets/h-connect.svg" width="100%" alt="connect"/>
+
 <p>
-  <img src="https://img.shields.io/badge/hugging%20face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="hugging face" />
-  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="langchain" />
-  <img src="https://img.shields.io/badge/spacy-09A3D5?style=flat-square" alt="spacy" />
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="streamlit" />
-  <img src="https://img.shields.io/badge/gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="gradio" />
-  <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi" />
+  <a href="https://github.com/elsayedelmandoh"><img src="assets/connect-github.svg" height="52" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/elsayed-elmandoh-b5849a1b8/"><img src="assets/connect-linkedin.svg" height="52" alt="linkedin"/></a>
+  <a href="mailto:elsayedelmandoh7@gmail.com"><img src="assets/connect-email.svg" height="52" alt="email"/></a>
+  <a href="https://x.com/aangparker"><img src="assets/connect-x.svg" height="52" alt="x"/></a>
+  <a href="https://huggingface.co/elsayedelmandoh"><img src="assets/connect-huggingface.svg" height="52" alt="hugging face"/></a>
+  <a href="https://www.kaggle.com/elsayedelmandoh"><img src="assets/connect-kaggle.svg" height="52" alt="kaggle"/></a>
+  <a href="https://open.spotify.com/user/t8vsvtmgjc583xv7d6dyxh2rb"><img src="assets/connect-spotify.svg" height="52" alt="spotify"/></a>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=ubuntu&logoColor=black" alt="linux" />
-  <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square" alt="aws" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="sqlite" />
-  <img src="https://img.shields.io/badge/duckdb-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="duckdb" />
-  <img src="https://img.shields.io/badge/chromadb-FF6446?style=flat-square" alt="chromadb" />
-</p>
+
+<img src="assets/footer.svg" width="100%" alt="if you made it this far, you should probably just follow me tbh"/>
+
+</div>
 
 <details>
-<summary>everything i use</summary>
+<summary>plain-text version</summary>
 
-- **language:** python
-- **ml/dl:** pytorch, tensorflow, keras, scikit-learn
-- **nlp & llms:** hugging face, langchain, langgraph, spacy, nltk, gensim, rag, prompt engineering
-- **cv:** opencv, yolov8
-- **tools:** docker, git, linux, aws, terraform, fastapi, streamlit, gradio
-- **databases:** mysql, sqlite, chromadb, duckdb
+### about
 
-</details>
+nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in ai & data science (a+) at queen's university, canada.
 
-### featured projects
+thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits processor cut output tokens 25-35% on mistral-7b, llama-3.1-8b and qwen2.5-3b. an audit showed it was learned early stopping, so i built an entailment-licensed sentence-elision method that beats matched-length truncation.
 
-| project                                                                                                                                               | what it does                                                                                                                                                       | stack                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| [spaceeye-geoai](https://github.com/elsayedelmandoh/spaceeye-geoai)                                                                                    | ranks 12 coded R7 compounds for an inspection committee from free satellite data (earth engine). three clocks (k2/k3/k6), streamlit dashboard + hybrid rag chatbot | chromadb, duckdb, gemini, arabic-nlp        |
-| [russ-rag-based-tutor-for-specific-subjects-genai-queens](https://github.com/elsayedelmandoh/russ-rag-based-tutor-for-specific-subjects-genai-queens)  | private offline rag tutor over course pdfs. citation-backed answers, zero cloud leakage                                                                            | langchain, chromadb, hf embeddings          |
-| [multimodal-chatbot](https://github.com/elsayedelmandoh/multimodal-chatbot) · [demo](https://huggingface.co/spaces/elsayedelmandoh/multimodal-chatbot) | text + image chatbot                                                                                                                                               | gemini api, gradio                          |
-| [web-search](https://github.com/elsayedelmandoh/web-search)                                                                                            | gradio app: google search + gemini for grounded, cited answers                                                                                                     | python, gradio, gemini                      |
-| [instructor-for-agentic-ai](https://github.com/elsayedelmandoh/instructor-for-agentic-ai)                                                              | groq api + gradio agent that teaches agentic ai                                                                                                                    | python, groq, gradio                        |
-| [sentiment-sleuth](https://github.com/elsayedelmandoh/sentiment-sleuth) · [demo](https://huggingface.co/spaces/elsayedelmandoh/sentiment-sleuth)       | traditional ml sentiment pipeline, sgd champion: acc 0.8903, f1 0.8902                                                                                             | sgd, tf-idf, nltk, scikit-learn             |
-| [atari-rl-benchmarking](https://github.com/elsayedelmandoh/atari-rl-benchmarking)                                                                      | dqn, ppo, discrete sac on atari (pong, breakout, space invaders)                                                                                                   | pytorch, gymnasium, sb3, custom discretesac |
-| [lightweight-speech-emotion-recognition-on-open-datasets](https://github.com/elsayedelmandoh/lightweight-speech-emotion-recognition-on-open-datasets)  | 6-class ser on ravdess: 1d cnn on log-mel (~150k params, <1ms cpu inference) vs mfcc+svm                                                                           | pytorch, specaugment, librosa               |
-| [detect-terrorists](https://github.com/elsayedelmandoh/detect-terrorists)                                                                              | air defense college competition detector: 0.738 map50, 0.637 map50-95                                                                                              | yolov8x, autodistill                        |
-| [GemiLla](https://github.com/elsayedelmandoh/GemiLla)                                                                                                  | dual-agent orchestration with gemini + groq/llama-3 (may 2024)                                                                                                     | streamlit, gemini, groq                     |
+languages: arabic, english, russian (basics). off-keyboard: chess, gym, reading about 5gw/6gw warfare.
 
-<details>
-<summary>earlier work @ electro pi</summary>
+### experience
 
-| project                                                                                                                                              | what it does                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [automated_ml](https://github.com/elsayedelmandoh/automated_ml)                                                                                       | zero-code automl platform                            |
-| [automated_eda](https://github.com/elsayedelmandoh/automated_eda)                                                                                     | automated eda platform                               |
-| [lsi-labse-semantic-search-widebot](https://github.com/elsayedelmandoh/LSI-LaBSE-semantic-search-widebot)                                             | semantic search with tf-idf / lsi / labse, 87% map   |
-| [naive-bayes-lstm-for-sentiment-analysis-nlp-widebot](https://github.com/elsayedelmandoh/naive-bayes-LSTM-for-sentiment-analysis-NLP-widebot)         | sentiment pipeline, naive bayes + lstm, 93% test acc |
-| [evaluating-language-models-for-harmful-prompt-detection](https://github.com/elsayedelmandoh/evaluating-language-models-for-harmful-prompt-detection) | harmful-prompt detection for llms                    |
-| [medical-image-analysis-with-vgg16-resnet-cnn](https://github.com/elsayedelmandoh/Medical-Image-Analysis-with-VGG16-ResNet-CNN)                       | medical image analysis with vgg16 / resnet           |
+- **digilians program**, egyptian military academy / mcit, new capital, egypt (sep 2025 - present): selected from 40k+ applicants to enroll in the m.sc. at queen's university. workshops with deloitte (pre-training vs fine-tuning, rag architectures, passive chatbots to active ai agents, etl/elt for genai, mlops lifecycle), ibm (resume building, networking, star interviews) and dotpy (startup fundamentals, freelancing); sessions at cairo ict (cyshield) on ai agents and at edex on ai in drones, air defense and defense systems.
+- **data scientist**, administrative capital for urban development, new capital, egypt (oct - nov 2026): smart-city iot/gis data cleaning and integration (python, sql/duckdb), documented quality checks with pii masking (law 151/2020), kpi pipeline with variance and root-cause analysis. built the ai component of spaceeye-geoai: inspection-file agent with verification log, complaints classifier, dashboard search/filters/map click, chatbot integration (python, streamlit, fastapi, duckdb, chromadb, gemini, scikit-learn, google earth engine data).
+- **machine learning engineer**, electro pi, new cairo, egypt (aug 2023 - aug 2025): designed and shipped 15+ production ml systems (harmful-prompt detector for llms, customer-service chatbot, code-quality evaluator, medical image analysis, automated eda, automated ml); semantic search engine (tf-idf, lsi, labse) at 87% map; sentiment pipeline (naive bayes + lstm, nltk) at 93% test accuracy; zero-code automl and autoeda platforms; completed 11 specialization tracks (python, eda, ml, dl, cv, nlp, llms, rag, prompt engineering, langchain).
+- **ai instructor**, huawei ict academy, egypt: dec 2022 - feb 2023. hcia, python & machine learning for 30 students; authored session plans, assignments and labs.
 
-</details>
+### education
 
-### education & experience
+- **m.sc. artificial intelligence & data science (a+)**, queen's university, kingston, canada (jan - nov 2026): thesis on minimallm, verbosity-aware decoding for llms; supervisor dr. rahatara ferdousi; sponsor deloitte (mentor collaboration bridging academic llm research with enterprise ai deployment).
+- **b.sc. artificial intelligence**, egyptian russian university (eru), cairo (oct 2020 - jul 2024): studied ml, dl, nlp, cv; russian language 1 & 2 (a+ in both); represented eru in ai competitions at auc, nile university, military technical college and air defense college. graduation project linkedup: academic networking platform for the egyptian education sector connecting students, teachers and universities with relevant jobs via recommendations (python, django, rest apis, ml, cosine similarity).
 
-- **m.sc. ai & data science** (a+), queen's university, kingston: jan-nov 2026. thesis: minimallm (supervisor dr. rahatara ferdousi, sponsor deloitte)
-- **digilians program**, egyptian military academy / mcit: sep 2025-present. selected from 40k+ applicants for the queen's m.sc.; workshops with deloitte, ibm, dotpy; sessions at cairo ict and edex
-- **data scientist**, administrative capital for urban development: oct-nov 2026. smart-city iot/gis data cleaning (python, sql/duckdb), pii masking, kpi pipeline; built the spaceeye-geoai ai component (inspection-file agent, complaints classifier, chatbot integration)
+### certifications
 
-<details>
-<summary>earlier</summary>
-
-- **ml engineer**, electro pi: aug 2023-aug 2025. 15+ production ml systems (harmful-prompt detector for llms, customer-service chatbot, code-quality evaluator, medical image analysis, automated eda, automl)
-- **ai instructor**, huawei ict academy: dec 2023-feb 2024. python & ml (hcia) to 30 students
-- **b.sc. ai**, egyptian russian university: oct 2020-jul 2024. graduation project linkedup, an academic networking platform (python, django, rest, cosine-similarity recommendations). represented eru in ai competitions at auc, nile university, military technical college and air defense college
-
-</details>
+- aws certified cloud practitioner (aws)
+- aws academy graduate: machine learning for natural language processing (aws academy)
+- aws machine learning foundations (aws)
+- aws academy cloud foundations (aws academy)
+- machine learning specialization (stanford / deeplearning.ai): supervised machine learning: regression and classification; advanced learning algorithms; unsupervised learning, recommenders, reinforcement learning
+- tools of the trade: linux and sql (google)
+- introduction to data engineering (ibm)
+- python for data science, ai & development (ibm)
+- langchain
+- chatgpt
+- decision making
 
 ### competitions
 
-- **[arabic abstractive summarization](https://github.com/elsayedelmandoh/Arabic_Abstractive_Summarization)** @ icmtc-23: fine-tuned mt5. rouge r1 0.10 / r2 0.02 / rl 0.08.
-- **terrorist detection** @ itc-23: yolov8x. 0.738 map50.
+- arabic abstractive summarization @ icmtc-23 (military technical college): fine-tuned mt5, rouge r1 0.10 / r2 0.02 / rl 0.08 ([repo](https://github.com/elsayedelmandoh/Arabic_Abstractive_Summarization))
+- terrorist detection @ itc-23 (air defense college): yolov8x + autodistill, civilian/military classification and weapon detection, 0.738 map50 / 0.637 map50-95 ([repo](https://github.com/elsayedelmandoh/detect-terrorists))
+- also participated: medgenius - 16th ugrf competition, su real life competition, itc-egypt adc competition, artificial intelligence competition (aic), egyptian startup olympics
 
-### stats
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="contrib_dark.svg"><img alt="contribution graph" src="contrib_light.svg"></picture>
-</p>
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&theme=tokyonight&hide_border=true"><img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=elsayedelmandoh&hide_border=true" ></picture>
-</p>
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=github_dark"><img width="48%" alt="most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsayedelmandoh&theme=default"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsayedelmandoh&theme=github_dark"><img width="48%" alt="repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elsayedelmandoh&theme=default"></picture>
-</p>
-
-### connect
-
-[linkedin](https://linkedin.com/in/elsayed-elmandoh-b5849a1b8/) · [email](mailto:elsayedelmandoh7@gmail.com) · [x](https://x.com/aangparker)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsayedelmandoh&color=000000&style=flat-square" alt="profile views" />
-</p>
-
-<p align="center">
-  <i>if you made it this far, you should probably just follow me tbh</i>
-</p>
+</details>

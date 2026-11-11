@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12" role="img" aria-label="divider">
+<title>divider</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" style="stop-color:var(--ac);stop-opacity:0"/><stop offset=".3" style="stop-color:var(--ac)"/><stop offset=".7" style="stop-color:var(--ac2)"/><stop offset="1" style="stop-color:var(--ac2);stop-opacity:0"/></linearGradient></defs>
+<rect x="0" y="5" width="1200" height="2" fill="url(#d)"/>
+</svg>

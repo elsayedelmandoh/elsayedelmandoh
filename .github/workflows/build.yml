@@ -23,10 +23,20 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: pip install -r requirements.txt && python today.py
+      # NOTE: this snake step could not be tested offline; verify on the first workflow run.
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: elsayedelmandoh
+          outputs: |
+            assets/generated/snake.svg
+            assets/generated/snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
         if: env.HAS_TOKEN == 'true'
         run: |
-          git add dark_mode.svg light_mode.svg contrib_dark.svg contrib_light.svg
+          git add dark_mode.svg light_mode.svg assets/generated
           if git diff --cached --quiet; then
             echo "no changes"; exit 0
           fi

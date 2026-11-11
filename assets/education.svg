@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" role="img" aria-label="education: m.sc. artificial intelligence &amp; data science (a+) (queen&#x27;s university · kingston, canada); b.sc. artificial intelligence (egyptian russian university (eru) · cairo)">
+<title>education: m.sc. artificial intelligence &amp; data science (a+) (queen&#x27;s university · kingston, canada); b.sc. artificial intelligence (egyptian russian university (eru) · cairo)</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="1199" height="355" rx="12" class="card"/>
+<line x1="28" y1="36" x2="28" y2="332" style="stroke:var(--ac)" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="28" cy="36" r="6" style="fill:var(--bg);stroke:var(--ac)" stroke-width="2"/>
+<text x="54" y="42.55" font-size="13" class="ac m">jan - nov 2026</text>
+<text x="54" y="70.3" font-size="18" class="tx b">m.sc. artificial intelligence &amp; data science (a+)</text>
+<text x="54" y="88.55" font-size="13" class="mu">queen&#x27;s university · kingston, canada</text>
+<text x="54" y="116.9" font-size="14" class="tx">thesis: minimallm, verbosity-aware decoding for llms. supervisor: dr. rahatara ferdousi. sponsor: deloitte (mentor</text>
+<text x="54" y="136.9" font-size="14" class="tx">collaboration bridging academic llm research with enterprise ai deployment).</text>
+<circle cx="28" cy="176" r="6" style="fill:var(--bg);stroke:var(--ac)" stroke-width="2"/>
+<text x="54" y="182.55" font-size="13" class="ac m">oct 2020 - jul 2024</text>
+<text x="54" y="210.3" font-size="18" class="tx b">b.sc. artificial intelligence</text>
+<text x="54" y="228.55" font-size="13" class="mu">egyptian russian university (eru) · cairo</text>
+<text x="54" y="256.9" font-size="14" class="tx">studied ml, dl, nlp, cv; russian language 1 &amp; 2 (a+ in both); represented eru in ai competitions at auc, nile</text>
+<text x="54" y="276.9" font-size="14" class="tx">university, military technical college and air defense college.</text>
+<text x="54" y="302.9" font-size="14" class="tx">graduation project linkedup: academic networking platform for the egyptian education sector connecting students,</text>
+<text x="54" y="322.9" font-size="14" class="tx">teachers and universities with relevant jobs via recommendations (python, django, rest apis, ml, cosine similarity).</text>
+</svg>

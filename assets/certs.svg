@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="402" viewBox="0 0 1200 402" role="img" aria-label="certifications: aws certified cloud practitioner (aws); aws academy graduate: machine learning for natural language processing (aws academy); aws machine learning foundations (aws); aws academy cloud foundations (aws academy); machine learning specialization (stanford / deeplearning.ai); tools of the trade: linux and sql (google); introduction to data engineering (ibm); python for data science, ai &amp; development (ibm); langchain; chatgpt; decision making">
+<title>certifications: aws certified cloud practitioner (aws); aws academy graduate: machine learning for natural language processing (aws academy); aws machine learning foundations (aws); aws academy cloud foundations (aws academy); machine learning specialization (stanford / deeplearning.ai); tools of the trade: linux and sql (google); introduction to data engineering (ibm); python for data science, ai &amp; development (ibm); langchain; chatgpt; decision making</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="1199" height="401" rx="12" class="card"/>
+<text x="48" y="50" font-size="14" class="tx b">aws certified cloud practitioner</text>
+<text x="48" y="68" font-size="12" class="mu">aws</text>
+<rect x="30" y="34" width="4" height="34" rx="2" class="bar"/>
+<text x="648" y="50" font-size="14" class="tx b">aws academy graduate: machine learning for natural</text>
+<text x="648" y="72" font-size="14" class="tx b">language processing</text>
+<text x="648" y="90" font-size="12" class="mu">aws academy</text>
+<rect x="630" y="34" width="4" height="56" rx="2" class="bar"/>
+<text x="48" y="114" font-size="14" class="tx b">aws machine learning foundations</text>
+<text x="48" y="132" font-size="12" class="mu">aws</text>
+<rect x="30" y="98" width="4" height="34" rx="2" class="bar"/>
+<text x="648" y="136" font-size="14" class="tx b">aws academy cloud foundations</text>
+<text x="648" y="154" font-size="12" class="mu">aws academy</text>
+<rect x="630" y="120" width="4" height="34" rx="2" class="bar"/>
+<text x="48" y="178" font-size="14" class="tx b">machine learning specialization</text>
+<text x="48" y="196" font-size="12" class="mu">stanford / deeplearning.ai</text>
+<text x="64" y="216" font-size="12" class="tx">- supervised machine learning: regression and classification</text>
+<text x="64" y="236" font-size="12" class="tx">- advanced learning algorithms</text>
+<text x="64" y="256" font-size="12" class="tx">- unsupervised learning, recommenders, reinforcement learning</text>
+<rect x="30" y="162" width="4" height="94" rx="2" class="bar"/>
+<text x="648" y="200" font-size="14" class="tx b">tools of the trade: linux and sql</text>
+<text x="648" y="218" font-size="12" class="mu">google</text>
+<rect x="630" y="184" width="4" height="34" rx="2" class="bar"/>
+<text x="648" y="264" font-size="14" class="tx b">introduction to data engineering</text>
+<text x="648" y="282" font-size="12" class="mu">ibm</text>
+<rect x="630" y="248" width="4" height="34" rx="2" class="bar"/>
+<text x="48" y="302" font-size="14" class="tx b">python for data science, ai &amp; development</text>
+<text x="48" y="320" font-size="12" class="mu">ibm</text>
+<rect x="30" y="286" width="4" height="34" rx="2" class="bar"/>
+<text x="648" y="328" font-size="14" class="tx b">langchain</text>
+<rect x="630" y="312" width="4" height="14" rx="2" class="bar"/>
+<text x="48" y="366" font-size="14" class="tx b">chatgpt</text>
+<rect x="30" y="350" width="4" height="14" rx="2" class="bar"/>
+<text x="648" y="372" font-size="14" class="tx b">decision making</text>
+<rect x="630" y="356" width="4" height="14" rx="2" class="bar"/>
+</svg>

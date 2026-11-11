@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="elsayed elmandoh - nlp/llm engineer, rag pipelines, agentic ai">
+<title>elsayed elmandoh - nlp/llm engineer, rag pipelines, agentic ai</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" style="stop-color:var(--g1)"/><stop offset="1" style="stop-color:var(--g2)"/></linearGradient><linearGradient id="ul" x1="0" x2="1"><stop offset="0" style="stop-color:var(--ac)"/><stop offset="1" style="stop-color:var(--ac2)"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" style="stroke:var(--bd)" stroke-opacity=".6"/></pattern></defs>
+<rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/>
+<line x1="830" y1="82" x2="930" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="82" x2="930" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="82" x2="930" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="82" x2="930" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="82" x2="930" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="134" x2="930" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="134" x2="930" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="134" x2="930" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="134" x2="930" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="134" x2="930" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="186" x2="930" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="186" x2="930" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="186" x2="930" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="186" x2="930" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="186" x2="930" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="238" x2="930" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="238" x2="930" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="238" x2="930" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="238" x2="930" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="830" y1="238" x2="930" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="56" x2="1030" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="56" x2="1030" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="56" x2="1030" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="56" x2="1030" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="56" x2="1030" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="108" x2="1030" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="108" x2="1030" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="108" x2="1030" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="108" x2="1030" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="108" x2="1030" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="160" x2="1030" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="160" x2="1030" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="160" x2="1030" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="160" x2="1030" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="160" x2="1030" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="212" x2="1030" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="212" x2="1030" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="212" x2="1030" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="212" x2="1030" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="212" x2="1030" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="264" x2="1030" y2="56" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="264" x2="1030" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="264" x2="1030" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="264" x2="1030" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="930" y1="264" x2="1030" y2="264" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="56" x2="1130" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="56" x2="1130" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="56" x2="1130" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="108" x2="1130" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="108" x2="1130" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="108" x2="1130" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="160" x2="1130" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="160" x2="1130" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="160" x2="1130" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="212" x2="1130" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="212" x2="1130" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="212" x2="1130" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="264" x2="1130" y2="108" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="264" x2="1130" y2="160" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<line x1="1030" y1="264" x2="1130" y2="212" style="stroke:var(--ac)" stroke-opacity=".22"/>
+<circle cx="830" cy="82" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="830" cy="134" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="830" cy="186" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="830" cy="238" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="56" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="108" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="160" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="212" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="930" cy="264" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="1030" cy="56" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1030" cy="108" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="1030" cy="160" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="1030" cy="212" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1030" cy="264" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="1130" cy="108" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1130" cy="160" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="1130" cy="212" r="6" style="fill:var(--ac)"><animate attributeName="opacity" values="1;.35;1" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="60" y="140" font-size="64" class="tx m b">elsayed elmandoh</text>
+<rect x="682.4" y="92" width="6" height="52" rx="2" style="fill:var(--ac)"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<rect x="60" y="158" width="220" height="4" rx="2" fill="url(#ul)"/>
+<text x="60" y="210" font-size="26" class="ac m">nlp/llm engineer · rag pipelines · agentic ai</text>
+<text x="60" y="254" font-size="18" class="mu">m.sc. ai &amp; data science @ queen&#x27;s university · kingston, canada</text>
+</svg>

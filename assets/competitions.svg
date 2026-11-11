@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="competitions: arabic abstractive summarization - icmtc-23 · military technical college - fine-tuned mt5. rouge r1 0.10 / r2 0.02 / rl 0.08 - repo: Arabic_Abstractive_Summarization; terrorist detection - itc-23 · air defense college - yolov8x + autodistill: civilian/military and weapon detection - 0.738 map50 / 0.637 map50-95 · repo: detect-terrorists; also: medgenius - 16th ugrf competition; su real life competition; itc-egypt adc competition; artificial intelligence competition (aic); egyptian startup olympics">
+<title>competitions: arabic abstractive summarization - icmtc-23 · military technical college - fine-tuned mt5. rouge r1 0.10 / r2 0.02 / rl 0.08 - repo: Arabic_Abstractive_Summarization; terrorist detection - itc-23 · air defense college - yolov8x + autodistill: civilian/military and weapon detection - 0.738 map50 / 0.637 map50-95 · repo: detect-terrorists; also: medgenius - 16th ugrf competition; su real life competition; itc-egypt adc competition; artificial intelligence competition (aic); egyptian startup olympics</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="1199" height="269" rx="12" class="card"/>
+<rect x="30" y="24" width="560" height="120" rx="10" class="card"/>
+<rect x="30" y="38" width="4" height="26" rx="2" class="bar"/>
+<text x="50" y="58" font-size="18" class="ac m b">arabic abstractive summarization</text>
+<text x="50" y="84" font-size="13" class="mu">icmtc-23 · military technical college</text>
+<text x="50" y="110" font-size="13" class="tx">fine-tuned mt5. rouge r1 0.10 / r2 0.02 / rl 0.08</text>
+<text x="50" y="132" font-size="12" class="mu m">repo: Arabic_Abstractive_Summarization</text>
+<rect x="610" y="24" width="560" height="120" rx="10" class="card"/>
+<rect x="610" y="38" width="4" height="26" rx="2" class="bar"/>
+<text x="630" y="58" font-size="18" class="ac m b">terrorist detection</text>
+<text x="630" y="84" font-size="13" class="mu">itc-23 · air defense college</text>
+<text x="630" y="110" font-size="13" class="tx">yolov8x + autodistill: civilian/military and weapon detection</text>
+<text x="630" y="132" font-size="12" class="mu m">0.738 map50 / 0.637 map50-95 · repo: detect-terrorists</text>
+<text x="30" y="184" font-size="14" class="mu m">also participated</text>
+<rect x="30" y="198" width="257.6" height="26" rx="13" class="chip"/>
+<text x="158.8" y="215.2" font-size="12" class="tx m" text-anchor="middle">medgenius - 16th ugrf competition</text>
+<rect x="297.6" y="198" width="192.8" height="26" rx="13" class="chip"/>
+<text x="394" y="215.2" font-size="12" class="tx m" text-anchor="middle">su real life competition</text>
+<rect x="500.4" y="198" width="200" height="26" rx="13" class="chip"/>
+<text x="600.4" y="215.2" font-size="12" class="tx m" text-anchor="middle">itc-egypt adc competition</text>
+<rect x="710.4" y="198" width="315.2" height="26" rx="13" class="chip"/>
+<text x="868" y="215.2" font-size="12" class="tx m" text-anchor="middle">artificial intelligence competition (aic)</text>
+<rect x="30" y="232" width="200" height="26" rx="13" class="chip"/>
+<text x="130" y="249.2" font-size="12" class="tx m" text-anchor="middle">egyptian startup olympics</text>
+</svg>

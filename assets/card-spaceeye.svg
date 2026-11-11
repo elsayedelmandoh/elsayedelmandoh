@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="200" viewBox="0 0 380 200" role="img" aria-label="spaceeye-geoai: ranks 12 coded r7 compounds for an inspection committee from free public satellite data (earth engine). three clocks (k2/k3/k6), streamlit dashboard + hybrid rag chatbot. (chromadb, duckdb, gemini, streamlit)">
+<title>spaceeye-geoai: ranks 12 coded r7 compounds for an inspection committee from free public satellite data (earth engine). three clocks (k2/k3/k6), streamlit dashboard + hybrid rag chatbot. (chromadb, duckdb, gemini, streamlit)</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="379" height="199" rx="12" class="card"/>
+<rect x="0" y="16" width="4" height="26" rx="2" class="bar"/>
+<text x="20" y="36" font-size="19" class="ac m b">spaceeye-geoai</text>
+<text x="20" y="66" font-size="12" class="tx">ranks 12 coded r7 compounds for an inspection</text>
+<text x="20" y="84" font-size="12" class="tx">committee from free public satellite data</text>
+<text x="20" y="102" font-size="12" class="tx">(earth engine). three clocks (k2/k3/k6),</text>
+<text x="20" y="120" font-size="12" class="tx">streamlit dashboard + hybrid rag chatbot.</text>
+<rect x="20" y="140" width="68.8" height="22" rx="11" class="chip"/>
+<text x="54.4" y="154.85" font-size="11" class="tx m" text-anchor="middle">chromadb</text>
+<rect x="94.8" y="140" width="55.6" height="22" rx="11" class="chip"/>
+<text x="122.6" y="154.85" font-size="11" class="tx m" text-anchor="middle">duckdb</text>
+<rect x="156.4" y="140" width="55.6" height="22" rx="11" class="chip"/>
+<text x="184.2" y="154.85" font-size="11" class="tx m" text-anchor="middle">gemini</text>
+<rect x="218" y="140" width="75.4" height="22" rx="11" class="chip"/>
+<text x="255.7" y="154.85" font-size="11" class="tx m" text-anchor="middle">streamlit</text>
+<text x="360" y="184" font-size="12" class="ac m" text-anchor="end">github -&gt;</text>
+</svg>

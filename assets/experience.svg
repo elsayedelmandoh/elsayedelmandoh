@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="774" viewBox="0 0 1200 774" role="img" aria-label="experience: digilians program (egyptian military academy / mcit · new capital, egypt); data scientist (administrative capital for urban development · new capital, egypt); machine learning engineer (electro pi · new cairo, egypt); ai instructor (huawei ict academy · egypt)">
+<title>experience: digilians program (egyptian military academy / mcit · new capital, egypt); data scientist (administrative capital for urban development · new capital, egypt); machine learning engineer (electro pi · new cairo, egypt); ai instructor (huawei ict academy · egypt)</title>
+<style>
+svg{--bg:#f6f8fa;--bd:#d0d7de;--tx:#1f2328;--mu:#656d76;--ac:#0969da;--ac2:#0891b2;--ok:#1a7f37;--bad:#cf222e;--g1:#ffffff;--g2:#dbeafe}
+@media (prefers-color-scheme: dark){svg{--bg:#161b22;--bd:#30363d;--tx:#e6edf3;--mu:#8b949e;--ac:#38bdf8;--ac2:#22d3ee;--ok:#3fb950;--bad:#f85149;--g1:#0d1117;--g2:#0c2a43}}
+text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.b{font-weight:700}
+.tx{fill:var(--tx)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}.ok{fill:var(--ok)}.bad{fill:var(--bad)}
+.card{fill:var(--bg);stroke:var(--bd)}
+.chip{fill:none;stroke:var(--ac)}
+.bar{fill:var(--ac)}
+.ln{stroke:var(--bd);fill:none}
+</style>
+<rect x=".5" y=".5" width="1199" height="773" rx="12" class="card"/>
+<line x1="28" y1="36" x2="28" y2="750" style="stroke:var(--ac)" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="28" cy="36" r="6" style="fill:var(--bg);stroke:var(--ac)" stroke-width="2"/>
+<text x="54" y="42.55" font-size="13" class="ac m">sep 2025 - present</text>
+<text x="54" y="70.3" font-size="18" class="tx b">digilians program</text>
+<text x="54" y="88.55" font-size="13" class="mu">egyptian military academy / mcit · new capital, egypt</text>
+<text x="54" y="116.9" font-size="14" class="tx">selected from 40k+ applicants to enroll in the m.sc. at queen&#x27;s university.</text>
+<text x="54" y="142.9" font-size="14" class="tx">workshops with deloitte (pre-training vs fine-tuning, rag architectures, passive chatbots to active ai agents, etl/elt</text>
+<text x="54" y="162.9" font-size="14" class="tx">for genai, mlops lifecycle), ibm (resume building, networking, star interviews) and dotpy (startup fundamentals,</text>
+<text x="54" y="182.9" font-size="14" class="tx">freelancing); sessions at cairo ict (cyshield) on ai agents and at edex on ai in drones, air defense and defense</text>
+<text x="54" y="202.9" font-size="14" class="tx">systems.</text>
+<circle cx="28" cy="242" r="6" style="fill:var(--bg);stroke:var(--ac)" stroke-width="2"/>
+<text x="54" y="248.55" font-size="13" class="ac m">oct - nov 2026</text>
+<text x="54" y="276.3" font-size="18" class="tx b">data scientist</text>
+<text x="54" y="294.55" font-size="13" class="mu">administrative capital for urban development · new capital, egypt</text>
+<text x="54" y="322.9" font-size="14" class="tx">smart-city iot/gis data cleaning and integration (python, sql/duckdb), documented quality checks with pii masking (law</text>
+<text x="54" y="342.9" font-size="14" class="tx">151/2020), kpi pipeline with variance and root-cause analysis.</text>
+<text x="54" y="368.9" font-size="14" class="tx">built the ai component of spaceeye-geoai: inspection-file agent with verification log, complaints classifier,</text>
+<text x="54" y="388.9" font-size="14" class="tx">dashboard search/filters/map click, chatbot integration (python, streamlit, fastapi, duckdb, chromadb, gemini, scikit-</text>
+<text x="54" y="408.9" font-size="14" class="tx">learn, google earth engine data).</text>
+<circle cx="28" cy="448" r="6" style="fill:var(--bg);stroke:var(--ac)" stroke-width="2"/>
+<text x="54" y="454.55" font-size="13" class="ac m">aug 2023 - aug 2025</text>
+<text x="54" y="482.3" font-size="18" class="tx b">machine learning engineer</text>
+<text x="54" y="500.55" font-size="13" class="mu">electro pi · new cairo, egypt</text>
+<text x="54" y="528.9" font-size="14" class="tx">designed and shipped 15+ production ml systems (harmful-prompt detector for llms, customer-service chatbot, code-</text>
+<text x="54" y="548.9" font-size="14" class="tx">quality evaluator, medical image analysis, automated eda, automated ml).</text>
+<text x="54" y="574.9" font-size="14" class="tx">semantic search engine (tf-idf, lsi, labse) at 87% map; sentiment pipeline (naive bayes + lstm, nltk) at 93% test</text>
+<text x="54" y="594.9" font-size="14" class="tx">accuracy; zero-code automl and autoeda platforms.</text>
+<text x="54" y="620.9" font-size="14" class="tx">completed 11 specialization tracks (python, eda, ml, dl, cv, nlp, llms, rag, prompt engineering, langchain).</text>
+<circle cx="28" cy="660" r="6" style="fill:var(--bg);stroke:var(--ac)" stroke-width="2"/>
+<text x="54" y="666.55" font-size="13" class="ac m">dec 2022 - feb 2023</text>
+<text x="54" y="694.3" font-size="18" class="tx b">ai instructor</text>
+<text x="54" y="712.55" font-size="13" class="mu">huawei ict academy · egypt</text>
+<text x="54" y="740.9" font-size="14" class="tx">hcia, python &amp; machine learning for 30 students; authored session plans, assignments and labs.</text>
+</svg>
