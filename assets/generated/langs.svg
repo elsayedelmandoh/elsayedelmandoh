@@ -16,10 +16,10 @@ text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
 <rect x=".5" y=".5" width="1199" height="117" rx="12" class="card"/>
 <text x="28" y="34" font-size="14" class="mu m">top languages</text>
 <clipPath id="bc"><rect x="28" y="48" width="1144" height="14" rx="7"/></clipPath><g clip-path="url(#bc)">
-<rect x="28.00" y="48" width="583.14" height="14" fill="#3572A5"/>
-<rect x="611.14" y="48" width="492.05" height="14" fill="#e34c26"/>
-<rect x="1103.18" y="48" width="50.26" height="14" fill="#f1e05a"/>
-<rect x="1153.44" y="48" width="18.56" height="14" fill="#8b949e"/>
+<rect x="28.00" y="48" width="583.71" height="14" fill="#3572A5"/>
+<rect x="611.71" y="48" width="491.53" height="14" fill="#e34c26"/>
+<rect x="1103.24" y="48" width="49.94" height="14" fill="#f1e05a"/>
+<rect x="1153.17" y="48" width="18.83" height="14" fill="#8b949e"/>
 </g>
 <circle cx="33" cy="92" r="5" fill="#3572A5"/>
 <text x="46" y="96" font-size="14" class="tx">Python 51.0%</text>
