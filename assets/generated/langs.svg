@@ -17,7 +17,7 @@ text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
 <text x="28" y="34" font-size="14" class="mu m">top languages</text>
 <clipPath id="bc"><rect x="28" y="48" width="1144" height="14" rx="7"/></clipPath><g clip-path="url(#bc)">
 <rect x="28.00" y="48" width="576.50" height="14" fill="#3572A5"/>
-<rect x="604.50" y="48" width="487.12" height="14" fill="#e34c26"/>
+<rect x="604.50" y="48" width="487.11" height="14" fill="#e34c26"/>
 <rect x="1091.62" y="48" width="48.39" height="14" fill="#f1e05a"/>
 <rect x="1140.01" y="48" width="17.40" height="14" fill="#663399"/>
 <rect x="1157.41" y="48" width="14.59" height="14" fill="#8b949e"/>
