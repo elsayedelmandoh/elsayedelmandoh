@@ -15,7 +15,8 @@
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/h-about.svg" width="100%" alt="about"/>
-<img src="assets/about.svg" width="100%" alt="nlp & llm engineer with 2+ years of experience delivering 15+ ml systems, specializing in rag pipelines, ai agents (langchain, langgraph), llm fine-tuning, and sentiment analysis. m.sc. in ai & data science (a+) from queen's university, with research on llm decoding optimization that reduced output tokens. proficient in python, pytorch, hugging face, fastapi, docker, aws, sql and git. languages: arabic, english, russian (basics). off-keyboard: chess, gym, 5gw/6gw warfare."/>
+<img src="assets/about.svg" width="100%" alt="nlp & llm engineer with 2+ years of experience delivering 15+ ml systems, specializing in rag pipelines, ai agents (langchain, langgraph), llm fine-tuning, and sentiment analysis. m.sc. in ai & data science (a+) from queen's university, with research on llm decoding optimization that reduced output tokens. proficient in python, pytorch, hugging face, fastapi, docker, aws, sql and git. languages: arabic, english, russian (basics).
+off-keyboard: chess, gym, 5gw/6gw warfare."/>
 
 <img src="assets/h-focus.svg" width="100%" alt="current focus"/>
 <img src="assets/focus.svg" width="100%" alt="current focus: finishing the queen's m.sc. thesis on verbosity-aware llm decoding; building rag systems and ai agents; data science for smart-city and geospatial ai (spaceeye-geoai)."/>
