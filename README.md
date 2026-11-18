@@ -15,7 +15,7 @@
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/h-about.svg" width="100%" alt="about"/>
-<img src="assets/about.svg" width="100%" alt="nlp/llm engineer with 2+ years of production ml (rag pipelines, end-to-end nlp). m.sc. in ai & data science (a+) at queen's university. thesis: minimallm, verbosity-aware decoding for llms, sponsored by deloitte. languages: arabic, english, russian (basics). off-keyboard: chess, gym, 5gw/6gw warfare."/>
+<img src="assets/about.svg" width="100%" alt="NLP & LLM Engineer with 2+ years of experience delivering 15+ ML systems, specializing in RAG pipelines, AI agents (LangChain, LangGraph), LLM fine-tuning, and sentiment analysis. M.Sc. in AI & Data Science (A+) from Queen's University, with research on LLM decoding optimization that reduced output tokens. Proficient in Python, PyTorch, Hugging Face, FastAPI, Docker, AWS, SQL and Git. languages: arabic, english, russian (basics). off-keyboard: chess, gym, 5gw/6gw warfare."/>
 
 <img src="assets/h-focus.svg" width="100%" alt="current focus"/>
 <img src="assets/focus.svg" width="100%" alt="current focus: finishing the queen's m.sc. thesis on verbosity-aware llm decoding; building rag systems and ai agents; data science for smart-city and geospatial ai (spaceeye-geoai)."/>
@@ -94,9 +94,9 @@ repos: [Arabic_Abstractive_Summarization](https://github.com/elsayedelmandoh/Ara
 
 ### about
 
-nlp/llm engineer with 2+ years of production ml: rag pipelines and end-to-end nlp systems. m.sc. in ai & data science (a+) at queen's university, canada.
+NLP & LLM Engineer with 2+ years of experience delivering 15+ ML systems, specializing in RAG pipelines, AI agents (LangChain, LangGraph), LLM fine-tuning, and sentiment analysis.
 
-thesis: minimallm, verbosity-aware decoding for llms (sponsored by deloitte). a training-free logits processor cut output tokens 25-35% on mistral-7b, llama-3.1-8b and qwen2.5-3b. an audit showed it was learned early stopping, so i built an entailment-licensed sentence-elision method that beats matched-length truncation.
+M.Sc. in AI & Data Science (A+) from Queen's University, with research on LLM decoding optimization that reduced output tokens. Proficient in Python, PyTorch, Hugging Face, FastAPI, Docker, AWS, SQL and Git.
 
 languages: arabic, english, russian (basics). off-keyboard: chess, gym, reading about 5gw/6gw warfare.
 
