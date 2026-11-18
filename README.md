@@ -98,7 +98,8 @@ nlp & llm engineer with 2+ years of experience delivering 15+ ml systems, specia
 
 m.sc. in ai & data science (a+) from queen's university, with research on llm decoding optimization that reduced output tokens. proficient in python, pytorch, hugging face, fastapi, docker, aws, sql and git.
 
-languages: arabic, english, russian (basics). off-keyboard: chess, gym, reading about 5gw/6gw warfare.
+languages: arabic, english, russian (basics).
+off-keyboard: chess, gym, reading about 5gw/6gw warfare.
 
 ### experience
 
