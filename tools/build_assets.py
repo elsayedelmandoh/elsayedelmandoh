@@ -126,12 +126,12 @@ def footer():
 # ---------- about / focus ----------
 def about():
     paras = [
-        "NLP & LLM Engineer with 2+ years of experience delivering 15+ ML systems, "
-        "specializing in RAG pipelines, AI agents (LangChain, LangGraph), LLM fine-tuning, "
+        "nlp & llm engineer with 2+ years of experience delivering 15+ ml systems, "
+        "specializing in rag pipelines, ai agents (langchain, langgraph), llm fine-tuning, "
         "and sentiment analysis.",
-        "M.Sc. in AI & Data Science (A+) from Queen's University, with research on "
-        "LLM decoding optimization that reduced output tokens. Proficient in Python, "
-        "PyTorch, Hugging Face, FastAPI, Docker, AWS, SQL and Git.",
+        "m.sc. in ai & data science (a+) from queen's university, with research on "
+        "llm decoding optimization that reduced output tokens. proficient in python, "
+        "pytorch, hugging face, fastapi, docker, aws, sql and git.",
         "languages: arabic, english, russian (basics).  off-keyboard: chess, gym, reading about 5gw/6gw warfare.",
     ]
     lines = [wrap(p, 140) for p in paras]
