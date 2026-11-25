@@ -96,5 +96,5 @@ text{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
 <rect x="682.4" y="92" width="6" height="52" rx="2" style="fill:var(--ac)"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
 <rect x="60" y="158" width="220" height="4" rx="2" fill="url(#ul)"/>
 <text x="60" y="210" font-size="26" class="ac m">nlp/llm engineer · rag pipelines · agentic ai</text>
-<text x="60" y="254" font-size="18" class="mu">m.sc. ai &amp; data science @ queen&#x27;s university · kingston, canada</text>
+<text x="60" y="254" font-size="18" class="mu">m.sc. ai &amp; data science @ queen&#x27;s university (nov 2026) · kingston, canada</text>
 </svg>
